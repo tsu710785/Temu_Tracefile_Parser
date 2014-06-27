@@ -1,0 +1,224 @@
+[
+  {
+    "index": "000013",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::CsrFreeCaptureBuffer"
+  },
+  {
+    "index": "000341",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::CsrFreeCaptureBuffer"
+  },
+  {
+    "index": "000349",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "kernel32.dll::sub_7C809711"
+  },
+  {
+    "index": "000354",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "kernel32.dll::sub_7C809711"
+  },
+  {
+    "index": "000355",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "kernel32.dll::sub_7C80250B"
+  },
+  {
+    "index": "000364",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "kernel32.dll::sub_7C80250B"
+  },
+  {
+    "index": "000370",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "kernel32.dll::sub_7C809711"
+  },
+  {
+    "index": "000375",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "kernel32.dll::sub_7C809711"
+  },
+  {
+    "index": "000384",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "kernel32.dll::GetConsoleMode"
+  },
+  {
+    "index": "000495",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "kernel32.dll::GetConsoleMode"
+  },
+  {
+    "index": "000510",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "kernel32.dll::sub_7C80250B"
+  },
+  {
+    "index": "000519",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "kernel32.dll::sub_7C80250B"
+  },
+  {
+    "index": "000590",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "msvcrt.dll::sub_77C2FB2A"
+  },
+  {
+    "index": "000616",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "msvcrt.dll::sub_77C2FB2A"
+  },
+  {
+    "index": "000619",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "msvcrt.dll::sub_77C3745B"
+  },
+  {
+    "index": "000628",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "msvcrt.dll::sub_77C3745B"
+  },
+  {
+    "index": "000671",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "msvcrt.dll::isspace"
+  },
+  {
+    "index": "000724",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "msvcrt.dll::isspace"
+  },
+  {
+    "index": "000760",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "msvcrt.dll::isdigit"
+  },
+  {
+    "index": "000813",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "msvcrt.dll::isdigit"
+  },
+  {
+    "index": "000835",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "msvcrt.dll::sub_77C43C35"
+  },
+  {
+    "index": "000842",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "msvcrt.dll::sub_77C43C35"
+  },
+  {
+    "index": "000852",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "msvcrt.dll::isdigit"
+  },
+  {
+    "index": "000905",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "msvcrt.dll::isdigit"
+  },
+  {
+    "index": "000915",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "msvcrt.dll::sub_77C43C50"
+  },
+  {
+    "index": "000956",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "msvcrt.dll::sub_77C43C50"
+  },
+  {
+    "index": "000995",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "msvcrt.dll::sub_77C57973"
+  },
+  {
+    "index": "001000",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "msvcrt.dll::sub_77C57973"
+  },
+  {
+    "index": "001001",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "msvcrt.dll::sub_77C3745B"
+  },
+  {
+    "index": "001010",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "msvcrt.dll::sub_77C3745B"
+  },
+  {
+    "index": "001015",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "msvcrt.dll::sub_77C41A5A"
+  },
+  {
+    "index": "001049",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "msvcrt.dll::sub_77C41A5A"
+  },
+  {
+    "index": "001051",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "msvcrt.dll::sub_77C3745B"
+  },
+  {
+    "index": "001060",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "msvcrt.dll::sub_77C3745B"
+  },
+  {
+    "index": "001070",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "msvcrt.dll::_cexit"
+  },
+  {
+    "index": "044007",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "msvcrt.dll::_cexit"
+  },
+  {
+    "index": "044010",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "kernel32.dll::ExitProcess"
+  }
+]
