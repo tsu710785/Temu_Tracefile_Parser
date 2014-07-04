@@ -1,0 +1,50 @@
+[
+  {
+    "index": "000013",
+    "pid": "600",
+    "action": "CALL",
+    "dllname": "ntdll.dll",
+    "functionname": "CsrFreeCaptureBuffer",
+    "level": 1
+  },
+  {
+    "index": "000013",
+    "pid": "600",
+    "action": "CALL",
+    "dllname": "ntdll.dll",
+    "functionname": "CsrFreeCaptureBuffer",
+    "level": 2
+  },
+  {
+    "index": "000013",
+    "pid": "600",
+    "action": "RET",
+    "dllname": "ntdll.dll",
+    "functionname": "CsrFreeCaptureBuffer",
+    "level": 2
+  },
+  {
+    "index": "000013",
+    "pid": "600",
+    "action": "CALL",
+    "dllname": "ntdll.dll",
+    "functionname": "CsrFreeCaptureBuffer",
+    "level": 2
+  },
+  {
+    "index": "000013",
+    "pid": "600",
+    "action": "RET",
+    "dllname": "ntdll.dll",
+    "functionname": "CsrFreeCaptureBuffer",
+    "level": 2
+  },
+  {
+    "index": "000013",
+    "pid": "600",
+    "action": "RET",
+    "dllname": "ntdll.dll",
+    "functionname": "CsrFreeCaptureBuffer",
+    "level": 1
+  }
+]

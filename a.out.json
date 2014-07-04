@@ -1,0 +1,8888 @@
+[
+  {
+    "index": "000013",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::CsrFreeCaptureBuffer",
+    "level": 1
+  },
+  {
+    "index": "000020",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::RtlFreeHeap",
+    "level": 2
+  },
+  {
+    "index": "000023",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C90EDC2",
+    "level": 3
+  },
+  {
+    "index": "000042",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C90EDC2",
+    "level": 3
+  },
+  {
+    "index": "000078",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::RtlGetNtGlobalFlags",
+    "level": 3
+  },
+  {
+    "index": "000082",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::RtlGetNtGlobalFlags",
+    "level": 3
+  },
+  {
+    "index": "000113",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::RtlEnterCriticalSection",
+    "level": 3
+  },
+  {
+    "index": "000124",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::RtlEnterCriticalSection",
+    "level": 3
+  },
+  {
+    "index": "000137",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C910C0A",
+    "level": 3
+  },
+  {
+    "index": "000190",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C910B94",
+    "level": 4
+  },
+  {
+    "index": "000207",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C910B94",
+    "level": 4
+  },
+  {
+    "index": "000234",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C910C0A",
+    "level": 3
+  },
+  {
+    "index": "000277",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C910BCC",
+    "level": 3
+  },
+  {
+    "index": "000296",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C910BCC",
+    "level": 3
+  },
+  {
+    "index": "000300",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C910E7D",
+    "level": 3
+  },
+  {
+    "index": "000305",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::RtlLeaveCriticalSection",
+    "level": 4
+  },
+  {
+    "index": "000313",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::RtlLeaveCriticalSection",
+    "level": 4
+  },
+  {
+    "index": "000314",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C910E7D",
+    "level": 3
+  },
+  {
+    "index": "000329",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C90EE02",
+    "level": 3
+  },
+  {
+    "index": "000338",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C90EE02",
+    "level": 3
+  },
+  {
+    "index": "000339",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::RtlFreeHeap",
+    "level": 2
+  },
+  {
+    "index": "000341",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::CsrFreeCaptureBuffer",
+    "level": 1
+  },
+  {
+    "index": "000349",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "kernel32.dll::sub_7C809711",
+    "level": 1
+  },
+  {
+    "index": "000354",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "kernel32.dll::sub_7C809711",
+    "level": 1
+  },
+  {
+    "index": "000355",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "kernel32.dll::sub_7C80250B",
+    "level": 1
+  },
+  {
+    "index": "000364",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "kernel32.dll::sub_7C80250B",
+    "level": 1
+  },
+  {
+    "index": "000365",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "unseen::unseen"
+  },
+  {
+    "index": "000370",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "kernel32.dll::sub_7C809711",
+    "level": 1
+  },
+  {
+    "index": "000375",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "kernel32.dll::sub_7C809711",
+    "level": 1
+  },
+  {
+    "index": "000377",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "unseen::unseen"
+  },
+  {
+    "index": "000384",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "kernel32.dll::GetConsoleMode",
+    "level": 1
+  },
+  {
+    "index": "000387",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "kernel32.dll::sub_7C8024CB",
+    "level": 2
+  },
+  {
+    "index": "000406",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "kernel32.dll::sub_7C8024CB",
+    "level": 2
+  },
+  {
+    "index": "000423",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::CsrClientCallServer",
+    "level": 2
+  },
+  {
+    "index": "000452",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::ZwRequestWaitReplyPort",
+    "level": 3
+  },
+  {
+    "index": "000455",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::KiFastSystemCall",
+    "level": 4
+  },
+  {
+    "index": "000458",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::KiFastSystemCall",
+    "level": 4
+  },
+  {
+    "index": "000459",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::ZwRequestWaitReplyPort",
+    "level": 3
+  },
+  {
+    "index": "000469",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::CsrClientCallServer",
+    "level": 2
+  },
+  {
+    "index": "000479",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "kernel32.dll::sub_7C809711",
+    "level": 2
+  },
+  {
+    "index": "000484",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "kernel32.dll::sub_7C809711",
+    "level": 2
+  },
+  {
+    "index": "000485",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "kernel32.dll::sub_7C80250B",
+    "level": 2
+  },
+  {
+    "index": "000494",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "kernel32.dll::sub_7C80250B",
+    "level": 2
+  },
+  {
+    "index": "000495",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "kernel32.dll::GetConsoleMode",
+    "level": 1
+  },
+  {
+    "index": "000510",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "kernel32.dll::sub_7C80250B",
+    "level": 1
+  },
+  {
+    "index": "000519",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "kernel32.dll::sub_7C80250B",
+    "level": 1
+  },
+  {
+    "index": "000520",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "unseen::unseen"
+  },
+  {
+    "index": "000585",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "unseen::unseen"
+  },
+  {
+    "index": "000590",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "msvcrt.dll::sub_77C2FB2A",
+    "level": 1
+  },
+  {
+    "index": "000592",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "msvcrt.dll::sub_77C2E531",
+    "level": 2
+  },
+  {
+    "index": "000604",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::RtlLeaveCriticalSection",
+    "level": 3
+  },
+  {
+    "index": "000612",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::RtlLeaveCriticalSection",
+    "level": 3
+  },
+  {
+    "index": "000614",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "msvcrt.dll::sub_77C2E531",
+    "level": 2
+  },
+  {
+    "index": "000616",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "msvcrt.dll::sub_77C2FB2A",
+    "level": 1
+  },
+  {
+    "index": "000619",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "msvcrt.dll::sub_77C3745B",
+    "level": 1
+  },
+  {
+    "index": "000628",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "msvcrt.dll::sub_77C3745B",
+    "level": 1
+  },
+  {
+    "index": "000629",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "unseen::unseen"
+  },
+  {
+    "index": "000666",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "unseen::unseen"
+  },
+  {
+    "index": "000668",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "unseen::unseen"
+  },
+  {
+    "index": "000671",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "msvcrt.dll::isspace",
+    "level": 1
+  },
+  {
+    "index": "000675",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "msvcrt.dll::sub_77C39F25",
+    "level": 2
+  },
+  {
+    "index": "000679",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::RtlGetLastWin32Error",
+    "level": 3
+  },
+  {
+    "index": "000682",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::RtlGetLastWin32Error",
+    "level": 3
+  },
+  {
+    "index": "000685",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "kernel32.dll::TlsGetValue",
+    "level": 3
+  },
+  {
+    "index": "000696",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "kernel32.dll::TlsGetValue",
+    "level": 3
+  },
+  {
+    "index": "000701",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::RtlSetLastWin32Error",
+    "level": 3
+  },
+  {
+    "index": "000709",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::RtlSetLastWin32Error",
+    "level": 3
+  },
+  {
+    "index": "000713",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "msvcrt.dll::sub_77C39F25",
+    "level": 2
+  },
+  {
+    "index": "000724",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "msvcrt.dll::isspace",
+    "level": 1
+  },
+  {
+    "index": "000731",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "unseen::unseen"
+  },
+  {
+    "index": "000760",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "msvcrt.dll::isdigit",
+    "level": 1
+  },
+  {
+    "index": "000764",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "msvcrt.dll::sub_77C39F25",
+    "level": 2
+  },
+  {
+    "index": "000768",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::RtlGetLastWin32Error",
+    "level": 3
+  },
+  {
+    "index": "000771",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::RtlGetLastWin32Error",
+    "level": 3
+  },
+  {
+    "index": "000774",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "kernel32.dll::TlsGetValue",
+    "level": 3
+  },
+  {
+    "index": "000785",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "kernel32.dll::TlsGetValue",
+    "level": 3
+  },
+  {
+    "index": "000790",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::RtlSetLastWin32Error",
+    "level": 3
+  },
+  {
+    "index": "000798",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::RtlSetLastWin32Error",
+    "level": 3
+  },
+  {
+    "index": "000802",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "msvcrt.dll::sub_77C39F25",
+    "level": 2
+  },
+  {
+    "index": "000813",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "msvcrt.dll::isdigit",
+    "level": 1
+  },
+  {
+    "index": "000835",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "msvcrt.dll::sub_77C43C35",
+    "level": 1
+  },
+  {
+    "index": "000842",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "msvcrt.dll::sub_77C43C35",
+    "level": 1
+  },
+  {
+    "index": "000852",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "msvcrt.dll::isdigit",
+    "level": 1
+  },
+  {
+    "index": "000856",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "msvcrt.dll::sub_77C39F25",
+    "level": 2
+  },
+  {
+    "index": "000860",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::RtlGetLastWin32Error",
+    "level": 3
+  },
+  {
+    "index": "000863",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::RtlGetLastWin32Error",
+    "level": 3
+  },
+  {
+    "index": "000866",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "kernel32.dll::TlsGetValue",
+    "level": 3
+  },
+  {
+    "index": "000877",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "kernel32.dll::TlsGetValue",
+    "level": 3
+  },
+  {
+    "index": "000882",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::RtlSetLastWin32Error",
+    "level": 3
+  },
+  {
+    "index": "000890",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::RtlSetLastWin32Error",
+    "level": 3
+  },
+  {
+    "index": "000894",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "msvcrt.dll::sub_77C39F25",
+    "level": 2
+  },
+  {
+    "index": "000905",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "msvcrt.dll::isdigit",
+    "level": 1
+  },
+  {
+    "index": "000915",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "msvcrt.dll::sub_77C43C50",
+    "level": 1
+  },
+  {
+    "index": "000956",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "msvcrt.dll::sub_77C43C50",
+    "level": 1
+  },
+  {
+    "index": "000995",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "msvcrt.dll::sub_77C57973",
+    "level": 1
+  },
+  {
+    "index": "001000",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "msvcrt.dll::sub_77C57973",
+    "level": 1
+  },
+  {
+    "index": "001001",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "msvcrt.dll::sub_77C3745B",
+    "level": 1
+  },
+  {
+    "index": "001010",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "msvcrt.dll::sub_77C3745B",
+    "level": 1
+  },
+  {
+    "index": "001011",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "unseen::unseen"
+  },
+  {
+    "index": "001015",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "msvcrt.dll::sub_77C41A5A",
+    "level": 1
+  },
+  {
+    "index": "001018",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "msvcrt.dll::sub_77C3B97B",
+    "level": 2
+  },
+  {
+    "index": "001027",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "msvcrt.dll::_unlock",
+    "level": 3
+  },
+  {
+    "index": "001033",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::RtlLeaveCriticalSection",
+    "level": 4
+  },
+  {
+    "index": "001041",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::RtlLeaveCriticalSection",
+    "level": 4
+  },
+  {
+    "index": "001043",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "msvcrt.dll::_unlock",
+    "level": 3
+  },
+  {
+    "index": "001046",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "msvcrt.dll::sub_77C3B97B",
+    "level": 2
+  },
+  {
+    "index": "001049",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "msvcrt.dll::sub_77C41A5A",
+    "level": 1
+  },
+  {
+    "index": "001051",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "msvcrt.dll::sub_77C3745B",
+    "level": 1
+  },
+  {
+    "index": "001060",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "msvcrt.dll::sub_77C3745B",
+    "level": 1
+  },
+  {
+    "index": "001061",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "unseen::unseen"
+  },
+  {
+    "index": "001067",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "unseen::unseen"
+  },
+  {
+    "index": "001070",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "msvcrt.dll::_cexit",
+    "level": 1
+  },
+  {
+    "index": "001077",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "msvcrt.dll::sub_77C39DDB",
+    "level": 2
+  },
+  {
+    "index": "001083",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "msvcrt.dll::_lock",
+    "level": 3
+  },
+  {
+    "index": "001093",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::RtlEnterCriticalSection",
+    "level": 4
+  },
+  {
+    "index": "001104",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::RtlEnterCriticalSection",
+    "level": 4
+  },
+  {
+    "index": "001107",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "msvcrt.dll::_lock",
+    "level": 3
+  },
+  {
+    "index": "001129",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "foo.exe::sub_401930",
+    "level": 3
+  },
+  {
+    "index": "001134",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "foo.exe::sub_401930",
+    "level": 3
+  },
+  {
+    "index": "001143",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "foo.exe::sub_401E40",
+    "level": 3
+  },
+  {
+    "index": "001152",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "foo.exe::sub_401DF0",
+    "level": 4
+  },
+  {
+    "index": "001161",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "foo.exe::sub_402430",
+    "level": 5
+  },
+  {
+    "index": "001172",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "foo.exe::sub_4021F0",
+    "level": 6
+  },
+  {
+    "index": "001187",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "kernel32.dll::TerminateThread",
+    "level": 7
+  },
+  {
+    "index": "001195",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::ZwTerminateThread",
+    "level": 8
+  },
+  {
+    "index": "001198",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::KiFastSystemCall",
+    "level": 9
+  },
+  {
+    "index": "001201",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::KiFastSystemCall",
+    "level": 9
+  },
+  {
+    "index": "001202",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::ZwTerminateThread",
+    "level": 8
+  },
+  {
+    "index": "001208",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "kernel32.dll::TerminateThread",
+    "level": 7
+  },
+  {
+    "index": "001213",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "kernel32.dll::CloseHandle",
+    "level": 7
+  },
+  {
+    "index": "001231",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::ZwClose",
+    "level": 8
+  },
+  {
+    "index": "001234",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::KiFastSystemCall",
+    "level": 9
+  },
+  {
+    "index": "001237",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::KiFastSystemCall",
+    "level": 9
+  },
+  {
+    "index": "001238",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::ZwClose",
+    "level": 8
+  },
+  {
+    "index": "001244",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "kernel32.dll::CloseHandle",
+    "level": 7
+  },
+  {
+    "index": "001251",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "kernel32.dll::CloseHandle",
+    "level": 7
+  },
+  {
+    "index": "001269",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::ZwClose",
+    "level": 8
+  },
+  {
+    "index": "001272",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::KiFastSystemCall",
+    "level": 9
+  },
+  {
+    "index": "001275",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::KiFastSystemCall",
+    "level": 9
+  },
+  {
+    "index": "001276",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::ZwClose",
+    "level": 8
+  },
+  {
+    "index": "001282",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "kernel32.dll::CloseHandle",
+    "level": 7
+  },
+  {
+    "index": "001291",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "foo.exe::sub_4021F0",
+    "level": 6
+  },
+  {
+    "index": "001293",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "foo.exe::sub_402430",
+    "level": 5
+  },
+  {
+    "index": "001296",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "foo.exe::sub_401DF0",
+    "level": 4
+  },
+  {
+    "index": "001301",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "msvcrt.dll::_open",
+    "level": 4
+  },
+  {
+    "index": "001304",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "msvcrt.dll::sub_77C37420",
+    "level": 5
+  },
+  {
+    "index": "001323",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "msvcrt.dll::sub_77C37420",
+    "level": 5
+  },
+  {
+    "index": "001335",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "msvcrt.dll::sub_77C2F278",
+    "level": 5
+  },
+  {
+    "index": "001409",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "msvcrt.dll::sub_77C2E55D",
+    "level": 6
+  },
+  {
+    "index": "001416",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "msvcrt.dll::sub_77C3A535",
+    "level": 7
+  },
+  {
+    "index": "001427",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "msvcrt.dll::malloc",
+    "level": 8
+  },
+  {
+    "index": "001435",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "msvcrt.dll::sub_77C2C3D4",
+    "level": 9
+  },
+  {
+    "index": "001442",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "msvcrt.dll::sub_77C2C2E9",
+    "level": 10
+  },
+  {
+    "index": "001445",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "msvcrt.dll::sub_77C37420",
+    "level": 11
+  },
+  {
+    "index": "001464",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "msvcrt.dll::sub_77C37420",
+    "level": 11
+  },
+  {
+    "index": "001478",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::RtlAllocateHeap",
+    "level": 11
+  },
+  {
+    "index": "001481",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C90EDC2",
+    "level": 12
+  },
+  {
+    "index": "001500",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C90EDC2",
+    "level": 12
+  },
+  {
+    "index": "001550",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C910701",
+    "level": 12
+  },
+  {
+    "index": "001553",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C90EDC2",
+    "level": 13
+  },
+  {
+    "index": "001572",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C90EDC2",
+    "level": 13
+  },
+  {
+    "index": "001577",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C902F06",
+    "level": 13
+  },
+  {
+    "index": "001587",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C902F06",
+    "level": 13
+  },
+  {
+    "index": "001594",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C90EE02",
+    "level": 13
+  },
+  {
+    "index": "001603",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C90EE02",
+    "level": 13
+  },
+  {
+    "index": "001604",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C910701",
+    "level": 12
+  },
+  {
+    "index": "001621",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::RtlEnterCriticalSection",
+    "level": 12
+  },
+  {
+    "index": "001632",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::RtlEnterCriticalSection",
+    "level": 12
+  },
+  {
+    "index": "001705",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C910B94",
+    "level": 12
+  },
+  {
+    "index": "001722",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C910B94",
+    "level": 12
+  },
+  {
+    "index": "001801",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C910BCC",
+    "level": 12
+  },
+  {
+    "index": "001820",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C910BCC",
+    "level": 12
+  },
+  {
+    "index": "001845",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::RtlLeaveCriticalSection",
+    "level": 12
+  },
+  {
+    "index": "001853",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::RtlLeaveCriticalSection",
+    "level": 12
+  },
+  {
+    "index": "001858",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C911607",
+    "level": 12
+  },
+  {
+    "index": "001862",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C911607",
+    "level": 12
+  },
+  {
+    "index": "001883",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C90EE02",
+    "level": 12
+  },
+  {
+    "index": "001892",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C90EE02",
+    "level": 12
+  },
+  {
+    "index": "001893",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::RtlAllocateHeap",
+    "level": 11
+  },
+  {
+    "index": "001894",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "msvcrt.dll::sub_77C3745B",
+    "level": 11
+  },
+  {
+    "index": "001903",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "msvcrt.dll::sub_77C3745B",
+    "level": 11
+  },
+  {
+    "index": "001904",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "msvcrt.dll::sub_77C2C2E9",
+    "level": 10
+  },
+  {
+    "index": "001909",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "msvcrt.dll::sub_77C2C3D4",
+    "level": 9
+  },
+  {
+    "index": "001913",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "msvcrt.dll::malloc",
+    "level": 8
+  },
+  {
+    "index": "001919",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "msvcrt.dll::_lock",
+    "level": 8
+  },
+  {
+    "index": "001929",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::RtlEnterCriticalSection",
+    "level": 9
+  },
+  {
+    "index": "001940",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::RtlEnterCriticalSection",
+    "level": 9
+  },
+  {
+    "index": "001943",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "msvcrt.dll::_lock",
+    "level": 8
+  },
+  {
+    "index": "001949",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "msvcrt.dll::sub_77C37989",
+    "level": 8
+  },
+  {
+    "index": "001952",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "msvcrt.dll::sub_77C37420",
+    "level": 9
+  },
+  {
+    "index": "001971",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "msvcrt.dll::sub_77C37420",
+    "level": 9
+  },
+  {
+    "index": "001978",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "kernel32.dll::InitializeCriticalSectionAndSpinCount",
+    "level": 9
+  },
+  {
+    "index": "001987",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::RtlInitializeCriticalSectionAndSpinCount",
+    "level": 10
+  },
+  {
+    "index": "002009",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C911999",
+    "level": 11
+  },
+  {
+    "index": "002012",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C90EDC2",
+    "level": 12
+  },
+  {
+    "index": "002031",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C90EDC2",
+    "level": 12
+  },
+  {
+    "index": "002036",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::RtlEnterCriticalSection",
+    "level": 12
+  },
+  {
+    "index": "002047",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::RtlEnterCriticalSection",
+    "level": 12
+  },
+  {
+    "index": "002057",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C911A11",
+    "level": 12
+  },
+  {
+    "index": "002061",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::RtlLeaveCriticalSection",
+    "level": 13
+  },
+  {
+    "index": "002069",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::RtlLeaveCriticalSection",
+    "level": 13
+  },
+  {
+    "index": "002070",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C911A11",
+    "level": 12
+  },
+  {
+    "index": "002072",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C90EE02",
+    "level": 12
+  },
+  {
+    "index": "002081",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C90EE02",
+    "level": 12
+  },
+  {
+    "index": "002082",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C911999",
+    "level": 11
+  },
+  {
+    "index": "002091",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::RtlLogStackBackTrace",
+    "level": 11
+  },
+  {
+    "index": "002094",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C90EDC2",
+    "level": 12
+  },
+  {
+    "index": "002113",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C90EDC2",
+    "level": 12
+  },
+  {
+    "index": "002118",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C90EE02",
+    "level": 12
+  },
+  {
+    "index": "002127",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C90EE02",
+    "level": 12
+  },
+  {
+    "index": "002128",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::RtlLogStackBackTrace",
+    "level": 11
+  },
+  {
+    "index": "002136",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::RtlEnterCriticalSection",
+    "level": 11
+  },
+  {
+    "index": "002147",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::RtlEnterCriticalSection",
+    "level": 11
+  },
+  {
+    "index": "002155",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::RtlLeaveCriticalSection",
+    "level": 11
+  },
+  {
+    "index": "002163",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::RtlLeaveCriticalSection",
+    "level": 11
+  },
+  {
+    "index": "002169",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::RtlInitializeCriticalSectionAndSpinCount",
+    "level": 10
+  },
+  {
+    "index": "002175",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "kernel32.dll::InitializeCriticalSectionAndSpinCount",
+    "level": 9
+  },
+  {
+    "index": "002179",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "msvcrt.dll::sub_77C3745B",
+    "level": 9
+  },
+  {
+    "index": "002188",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "msvcrt.dll::sub_77C3745B",
+    "level": 9
+  },
+  {
+    "index": "002189",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "msvcrt.dll::sub_77C37989",
+    "level": 8
+  },
+  {
+    "index": "002197",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "msvcrt.dll::_unlock",
+    "level": 8
+  },
+  {
+    "index": "002203",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::RtlLeaveCriticalSection",
+    "level": 9
+  },
+  {
+    "index": "002211",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::RtlLeaveCriticalSection",
+    "level": 9
+  },
+  {
+    "index": "002213",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "msvcrt.dll::_unlock",
+    "level": 8
+  },
+  {
+    "index": "002220",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "msvcrt.dll::sub_77C3A535",
+    "level": 7
+  },
+  {
+    "index": "002228",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "msvcrt.dll::_lock",
+    "level": 7
+  },
+  {
+    "index": "002238",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::RtlEnterCriticalSection",
+    "level": 8
+  },
+  {
+    "index": "002249",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::RtlEnterCriticalSection",
+    "level": 8
+  },
+  {
+    "index": "002252",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "msvcrt.dll::_lock",
+    "level": 7
+  },
+  {
+    "index": "002291",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "msvcrt.dll::_lock",
+    "level": 7
+  },
+  {
+    "index": "002301",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::RtlEnterCriticalSection",
+    "level": 8
+  },
+  {
+    "index": "002312",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::RtlEnterCriticalSection",
+    "level": 8
+  },
+  {
+    "index": "002315",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "msvcrt.dll::_lock",
+    "level": 7
+  },
+  {
+    "index": "002322",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "msvcrt.dll::sub_77C37989",
+    "level": 7
+  },
+  {
+    "index": "002325",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "msvcrt.dll::sub_77C37420",
+    "level": 8
+  },
+  {
+    "index": "002344",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "msvcrt.dll::sub_77C37420",
+    "level": 8
+  },
+  {
+    "index": "002351",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "kernel32.dll::InitializeCriticalSectionAndSpinCount",
+    "level": 8
+  },
+  {
+    "index": "002360",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::RtlInitializeCriticalSectionAndSpinCount",
+    "level": 9
+  },
+  {
+    "index": "002382",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C911999",
+    "level": 10
+  },
+  {
+    "index": "002385",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C90EDC2",
+    "level": 11
+  },
+  {
+    "index": "002404",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C90EDC2",
+    "level": 11
+  },
+  {
+    "index": "002409",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::RtlEnterCriticalSection",
+    "level": 11
+  },
+  {
+    "index": "002420",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::RtlEnterCriticalSection",
+    "level": 11
+  },
+  {
+    "index": "002430",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C911A11",
+    "level": 11
+  },
+  {
+    "index": "002434",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::RtlLeaveCriticalSection",
+    "level": 12
+  },
+  {
+    "index": "002442",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::RtlLeaveCriticalSection",
+    "level": 12
+  },
+  {
+    "index": "002443",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C911A11",
+    "level": 11
+  },
+  {
+    "index": "002445",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C90EE02",
+    "level": 11
+  },
+  {
+    "index": "002454",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C90EE02",
+    "level": 11
+  },
+  {
+    "index": "002455",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C911999",
+    "level": 10
+  },
+  {
+    "index": "002464",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::RtlLogStackBackTrace",
+    "level": 10
+  },
+  {
+    "index": "002467",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C90EDC2",
+    "level": 11
+  },
+  {
+    "index": "002486",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C90EDC2",
+    "level": 11
+  },
+  {
+    "index": "002491",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C90EE02",
+    "level": 11
+  },
+  {
+    "index": "002500",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C90EE02",
+    "level": 11
+  },
+  {
+    "index": "002501",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::RtlLogStackBackTrace",
+    "level": 10
+  },
+  {
+    "index": "002509",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::RtlEnterCriticalSection",
+    "level": 10
+  },
+  {
+    "index": "002520",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::RtlEnterCriticalSection",
+    "level": 10
+  },
+  {
+    "index": "002528",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::RtlLeaveCriticalSection",
+    "level": 10
+  },
+  {
+    "index": "002536",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::RtlLeaveCriticalSection",
+    "level": 10
+  },
+  {
+    "index": "002542",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::RtlInitializeCriticalSectionAndSpinCount",
+    "level": 9
+  },
+  {
+    "index": "002548",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "kernel32.dll::InitializeCriticalSectionAndSpinCount",
+    "level": 8
+  },
+  {
+    "index": "002552",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "msvcrt.dll::sub_77C3745B",
+    "level": 8
+  },
+  {
+    "index": "002561",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "msvcrt.dll::sub_77C3745B",
+    "level": 8
+  },
+  {
+    "index": "002562",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "msvcrt.dll::sub_77C37989",
+    "level": 7
+  },
+  {
+    "index": "002569",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "msvcrt.dll::_unlock",
+    "level": 7
+  },
+  {
+    "index": "002575",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::RtlLeaveCriticalSection",
+    "level": 8
+  },
+  {
+    "index": "002583",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::RtlLeaveCriticalSection",
+    "level": 8
+  },
+  {
+    "index": "002585",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "msvcrt.dll::_unlock",
+    "level": 7
+  },
+  {
+    "index": "002589",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::RtlEnterCriticalSection",
+    "level": 7
+  },
+  {
+    "index": "002600",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::RtlEnterCriticalSection",
+    "level": 7
+  },
+  {
+    "index": "002616",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "msvcrt.dll::_unlock",
+    "level": 7
+  },
+  {
+    "index": "002622",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::RtlLeaveCriticalSection",
+    "level": 8
+  },
+  {
+    "index": "002630",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::RtlLeaveCriticalSection",
+    "level": 8
+  },
+  {
+    "index": "002632",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "msvcrt.dll::_unlock",
+    "level": 7
+  },
+  {
+    "index": "002639",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "msvcrt.dll::sub_77C2E55D",
+    "level": 6
+  },
+  {
+    "index": "002656",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "kernel32.dll::CreateFileA",
+    "level": 6
+  },
+  {
+    "index": "002661",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "kernel32.dll::sub_7C80E2A4",
+    "level": 7
+  },
+  {
+    "index": "002673",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::RtlInitAnsiString",
+    "level": 8
+  },
+  {
+    "index": "002699",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::RtlInitAnsiString",
+    "level": 8
+  },
+  {
+    "index": "002706",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::RtlAnsiStringToUnicodeString",
+    "level": 8
+  },
+  {
+    "index": "002736",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::RtlMultiByteToUnicodeN",
+    "level": 9
+  },
+  {
+    "index": "002802",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::RtlMultiByteToUnicodeN",
+    "level": 9
+  },
+  {
+    "index": "002815",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::RtlAnsiStringToUnicodeString",
+    "level": 8
+  },
+  {
+    "index": "002821",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "kernel32.dll::sub_7C80E2A4",
+    "level": 7
+  },
+  {
+    "index": "002831",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "kernel32.dll::CreateFileW",
+    "level": 7
+  },
+  {
+    "index": "002849",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::RtlInitUnicodeString",
+    "level": 8
+  },
+  {
+    "index": "002877",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::RtlInitUnicodeString",
+    "level": 8
+  },
+  {
+    "index": "002891",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "kernel32.dll::sub_7C810B8E",
+    "level": 8
+  },
+  {
+    "index": "002894",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "kernel32.dll::sub_7C8024CB",
+    "level": 9
+  },
+  {
+    "index": "002913",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "kernel32.dll::sub_7C8024CB",
+    "level": 9
+  },
+  {
+    "index": "002941",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "kernel32.dll::sub_7C80250B",
+    "level": 9
+  },
+  {
+    "index": "002950",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "kernel32.dll::sub_7C80250B",
+    "level": 9
+  },
+  {
+    "index": "002951",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "kernel32.dll::sub_7C810B8E",
+    "level": 8
+  },
+  {
+    "index": "002960",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::RtlDosPathNameToNtPathName_U",
+    "level": 8
+  },
+  {
+    "index": "002972",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::wcslen",
+    "level": 9
+  },
+  {
+    "index": "003040",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::wcslen",
+    "level": 9
+  },
+  {
+    "index": "003055",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C913E97",
+    "level": 9
+  },
+  {
+    "index": "003058",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C90EDC2",
+    "level": 10
+  },
+  {
+    "index": "003077",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C90EDC2",
+    "level": 10
+  },
+  {
+    "index": "003107",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::RtlAllocateHeap",
+    "level": 10
+  },
+  {
+    "index": "003110",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C90EDC2",
+    "level": 11
+  },
+  {
+    "index": "003129",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C90EDC2",
+    "level": 11
+  },
+  {
+    "index": "003179",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C910701",
+    "level": 11
+  },
+  {
+    "index": "003182",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C90EDC2",
+    "level": 12
+  },
+  {
+    "index": "003201",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C90EDC2",
+    "level": 12
+  },
+  {
+    "index": "003206",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C902F06",
+    "level": 12
+  },
+  {
+    "index": "003220",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C902F06",
+    "level": 12
+  },
+  {
+    "index": "003225",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C90EE02",
+    "level": 12
+  },
+  {
+    "index": "003234",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C90EE02",
+    "level": 12
+  },
+  {
+    "index": "003235",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C910701",
+    "level": 11
+  },
+  {
+    "index": "003254",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C90EE02",
+    "level": 11
+  },
+  {
+    "index": "003263",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C90EE02",
+    "level": 11
+  },
+  {
+    "index": "003264",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::RtlAllocateHeap",
+    "level": 10
+  },
+  {
+    "index": "003268",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::RtlAcquirePebLock",
+    "level": 10
+  },
+  {
+    "index": "003271",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C90EDC2",
+    "level": 11
+  },
+  {
+    "index": "003290",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C90EDC2",
+    "level": 11
+  },
+  {
+    "index": "003298",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::RtlEnterCriticalSection",
+    "level": 11
+  },
+  {
+    "index": "003309",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::RtlEnterCriticalSection",
+    "level": 11
+  },
+  {
+    "index": "003311",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C90EE02",
+    "level": 11
+  },
+  {
+    "index": "003320",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C90EE02",
+    "level": 11
+  },
+  {
+    "index": "003321",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::RtlAcquirePebLock",
+    "level": 10
+  },
+  {
+    "index": "003337",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C913B67",
+    "level": 10
+  },
+  {
+    "index": "003340",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C90EDC2",
+    "level": 11
+  },
+  {
+    "index": "003359",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C90EDC2",
+    "level": 11
+  },
+  {
+    "index": "003406",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C9139ED",
+    "level": 11
+  },
+  {
+    "index": "003419",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::RtlDetermineDosPathNameType_U",
+    "level": 12
+  },
+  {
+    "index": "003439",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::RtlDetermineDosPathNameType_U",
+    "level": 12
+  },
+  {
+    "index": "003587",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C9139ED",
+    "level": 11
+  },
+  {
+    "index": "003736",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::RtlDetermineDosPathNameType_U",
+    "level": 11
+  },
+  {
+    "index": "003756",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::RtlDetermineDosPathNameType_U",
+    "level": 11
+  },
+  {
+    "index": "003759",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::RtlAcquirePebLock",
+    "level": 11
+  },
+  {
+    "index": "003762",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C90EDC2",
+    "level": 12
+  },
+  {
+    "index": "003781",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C90EDC2",
+    "level": 12
+  },
+  {
+    "index": "003789",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::RtlEnterCriticalSection",
+    "level": 12
+  },
+  {
+    "index": "003801",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::RtlEnterCriticalSection",
+    "level": 12
+  },
+  {
+    "index": "003803",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C90EE02",
+    "level": 12
+  },
+  {
+    "index": "003812",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C90EE02",
+    "level": 12
+  },
+  {
+    "index": "003813",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::RtlAcquirePebLock",
+    "level": 11
+  },
+  {
+    "index": "003835",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C914156",
+    "level": 11
+  },
+  {
+    "index": "003852",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C910387",
+    "level": 12
+  },
+  {
+    "index": "003857",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C910387",
+    "level": 12
+  },
+  {
+    "index": "003859",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C914156",
+    "level": 11
+  },
+  {
+    "index": "003865",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C91ADE4",
+    "level": 11
+  },
+  {
+    "index": "003876",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::RtlDetermineDosPathNameType_U",
+    "level": 12
+  },
+  {
+    "index": "003898",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::RtlDetermineDosPathNameType_U",
+    "level": 12
+  },
+  {
+    "index": "003905",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C91ADE4",
+    "level": 11
+  },
+  {
+    "index": "004816",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C913E6A",
+    "level": 11
+  },
+  {
+    "index": "004817",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::RtlReleasePebLock",
+    "level": 12
+  },
+  {
+    "index": "004821",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::RtlLeaveCriticalSection",
+    "level": 13
+  },
+  {
+    "index": "004827",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::RtlLeaveCriticalSection",
+    "level": 13
+  },
+  {
+    "index": "004828",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::RtlReleasePebLock",
+    "level": 12
+  },
+  {
+    "index": "004829",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C913E6A",
+    "level": 11
+  },
+  {
+    "index": "004832",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C910387",
+    "level": 11
+  },
+  {
+    "index": "004837",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C910387",
+    "level": 11
+  },
+  {
+    "index": "004838",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C90EE02",
+    "level": 11
+  },
+  {
+    "index": "004847",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C90EE02",
+    "level": 11
+  },
+  {
+    "index": "004848",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C913B67",
+    "level": 10
+  },
+  {
+    "index": "004861",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::RtlDetermineDosPathNameType_U",
+    "level": 10
+  },
+  {
+    "index": "004883",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::RtlDetermineDosPathNameType_U",
+    "level": 10
+  },
+  {
+    "index": "004895",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::memmove",
+    "level": 10
+  },
+  {
+    "index": "004927",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::memmove",
+    "level": 10
+  },
+  {
+    "index": "004940",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::memmove",
+    "level": 10
+  },
+  {
+    "index": "004991",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::memmove",
+    "level": 10
+  },
+  {
+    "index": "005031",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::RtlInitUnicodeStringEx",
+    "level": 10
+  },
+  {
+    "index": "005041",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::wcslen",
+    "level": 11
+  },
+  {
+    "index": "005319",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::wcslen",
+    "level": 11
+  },
+  {
+    "index": "005332",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::RtlInitUnicodeStringEx",
+    "level": 10
+  },
+  {
+    "index": "005344",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::RtlEqualUnicodeString",
+    "level": 10
+  },
+  {
+    "index": "005920",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::RtlEqualUnicodeString",
+    "level": 10
+  },
+  {
+    "index": "005943",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C9140DD",
+    "level": 10
+  },
+  {
+    "index": "005946",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::RtlReleasePebLock",
+    "level": 11
+  },
+  {
+    "index": "005950",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::RtlLeaveCriticalSection",
+    "level": 12
+  },
+  {
+    "index": "005958",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::RtlLeaveCriticalSection",
+    "level": 12
+  },
+  {
+    "index": "005959",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::RtlReleasePebLock",
+    "level": 11
+  },
+  {
+    "index": "005960",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C9140DD",
+    "level": 10
+  },
+  {
+    "index": "005963",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C910387",
+    "level": 10
+  },
+  {
+    "index": "005968",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C910387",
+    "level": 10
+  },
+  {
+    "index": "005969",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C90EE02",
+    "level": 10
+  },
+  {
+    "index": "005978",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C90EE02",
+    "level": 10
+  },
+  {
+    "index": "005979",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C913E97",
+    "level": 9
+  },
+  {
+    "index": "005982",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::RtlDosPathNameToNtPathName_U",
+    "level": 8
+  },
+  {
+    "index": "006083",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::ZwCreateFile",
+    "level": 8
+  },
+  {
+    "index": "006086",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::KiFastSystemCall",
+    "level": 9
+  },
+  {
+    "index": "006089",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::KiFastSystemCall",
+    "level": 9
+  },
+  {
+    "index": "006090",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::ZwCreateFile",
+    "level": 8
+  },
+  {
+    "index": "006097",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::RtlFreeHeap",
+    "level": 8
+  },
+  {
+    "index": "006100",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C90EDC2",
+    "level": 9
+  },
+  {
+    "index": "006119",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C90EDC2",
+    "level": 9
+  },
+  {
+    "index": "006155",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::RtlGetNtGlobalFlags",
+    "level": 9
+  },
+  {
+    "index": "006159",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::RtlGetNtGlobalFlags",
+    "level": 9
+  },
+  {
+    "index": "006192",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C9105A2",
+    "level": 9
+  },
+  {
+    "index": "006200",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C91058D",
+    "level": 10
+  },
+  {
+    "index": "006207",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C91058D",
+    "level": 10
+  },
+  {
+    "index": "006212",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C902F2F",
+    "level": 10
+  },
+  {
+    "index": "006225",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C902F2F",
+    "level": 10
+  },
+  {
+    "index": "006229",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C9105A2",
+    "level": 9
+  },
+  {
+    "index": "006235",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C90EE02",
+    "level": 9
+  },
+  {
+    "index": "006244",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C90EE02",
+    "level": 9
+  },
+  {
+    "index": "006245",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::RtlFreeHeap",
+    "level": 8
+  },
+  {
+    "index": "006252",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::RtlFreeHeap",
+    "level": 8
+  },
+  {
+    "index": "006255",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C90EDC2",
+    "level": 9
+  },
+  {
+    "index": "006274",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C90EDC2",
+    "level": 9
+  },
+  {
+    "index": "006284",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C90EE02",
+    "level": 9
+  },
+  {
+    "index": "006293",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C90EE02",
+    "level": 9
+  },
+  {
+    "index": "006294",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::RtlFreeHeap",
+    "level": 8
+  },
+  {
+    "index": "006304",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "kernel32.dll::sub_7C8092C0",
+    "level": 8
+  },
+  {
+    "index": "006323",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "kernel32.dll::sub_7C8092C0",
+    "level": 8
+  },
+  {
+    "index": "006331",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "kernel32.dll::CreateFileW",
+    "level": 7
+  },
+  {
+    "index": "006333",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "kernel32.dll::CreateFileA",
+    "level": 6
+  },
+  {
+    "index": "006338",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "kernel32.dll::GetFileType",
+    "level": 6
+  },
+  {
+    "index": "006368",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::ZwQueryVolumeInformationFile",
+    "level": 7
+  },
+  {
+    "index": "006371",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::KiFastSystemCall",
+    "level": 8
+  },
+  {
+    "index": "006374",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::KiFastSystemCall",
+    "level": 8
+  },
+  {
+    "index": "006375",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::ZwQueryVolumeInformationFile",
+    "level": 7
+  },
+  {
+    "index": "006392",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "kernel32.dll::GetFileType",
+    "level": 6
+  },
+  {
+    "index": "006401",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "msvcrt.dll::sub_77C2E35A",
+    "level": 6
+  },
+  {
+    "index": "006438",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "msvcrt.dll::sub_77C2E35A",
+    "level": 6
+  },
+  {
+    "index": "006466",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "msvcrt.dll::sub_77C2F278",
+    "level": 5
+  },
+  {
+    "index": "006470",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "msvcrt.dll::sub_77C2F5AB",
+    "level": 5
+  },
+  {
+    "index": "006474",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "msvcrt.dll::sub_77C2E531",
+    "level": 6
+  },
+  {
+    "index": "006486",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::RtlLeaveCriticalSection",
+    "level": 7
+  },
+  {
+    "index": "006494",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::RtlLeaveCriticalSection",
+    "level": 7
+  },
+  {
+    "index": "006496",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "msvcrt.dll::sub_77C2E531",
+    "level": 6
+  },
+  {
+    "index": "006498",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "msvcrt.dll::sub_77C2F5AB",
+    "level": 5
+  },
+  {
+    "index": "006500",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "msvcrt.dll::sub_77C3745B",
+    "level": 5
+  },
+  {
+    "index": "006509",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "msvcrt.dll::sub_77C3745B",
+    "level": 5
+  },
+  {
+    "index": "006510",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "msvcrt.dll::_open",
+    "level": 4
+  },
+  {
+    "index": "006529",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "msvcrt.dll::_write",
+    "level": 4
+  },
+  {
+    "index": "006532",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "msvcrt.dll::sub_77C37420",
+    "level": 5
+  },
+  {
+    "index": "006551",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "msvcrt.dll::sub_77C37420",
+    "level": 5
+  },
+  {
+    "index": "006566",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "msvcrt.dll::sub_77C2E4B4",
+    "level": 5
+  },
+  {
+    "index": "006587",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::RtlEnterCriticalSection",
+    "level": 6
+  },
+  {
+    "index": "006598",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::RtlEnterCriticalSection",
+    "level": 6
+  },
+  {
+    "index": "006605",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "msvcrt.dll::sub_77C2E4B4",
+    "level": 5
+  },
+  {
+    "index": "006614",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "msvcrt.dll::sub_77C30109",
+    "level": 5
+  },
+  {
+    "index": "006651",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "kernel32.dll::WriteFile",
+    "level": 6
+  },
+  {
+    "index": "006654",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "kernel32.dll::sub_7C8024CB",
+    "level": 7
+  },
+  {
+    "index": "006673",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "kernel32.dll::sub_7C8024CB",
+    "level": 7
+  },
+  {
+    "index": "006705",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::ZwWriteFile",
+    "level": 7
+  },
+  {
+    "index": "006708",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::KiFastSystemCall",
+    "level": 8
+  },
+  {
+    "index": "006711",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::KiFastSystemCall",
+    "level": 8
+  },
+  {
+    "index": "006712",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::ZwWriteFile",
+    "level": 7
+  },
+  {
+    "index": "006721",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "kernel32.dll::sub_7C80250B",
+    "level": 7
+  },
+  {
+    "index": "006730",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "kernel32.dll::sub_7C80250B",
+    "level": 7
+  },
+  {
+    "index": "006731",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "kernel32.dll::WriteFile",
+    "level": 6
+  },
+  {
+    "index": "006746",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "msvcrt.dll::sub_77C57973",
+    "level": 6
+  },
+  {
+    "index": "006751",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "msvcrt.dll::sub_77C57973",
+    "level": 6
+  },
+  {
+    "index": "006753",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "msvcrt.dll::sub_77C30109",
+    "level": 5
+  },
+  {
+    "index": "006758",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "msvcrt.dll::sub_77C3038A",
+    "level": 5
+  },
+  {
+    "index": "006760",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "msvcrt.dll::sub_77C2E531",
+    "level": 6
+  },
+  {
+    "index": "006772",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::RtlLeaveCriticalSection",
+    "level": 7
+  },
+  {
+    "index": "006780",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::RtlLeaveCriticalSection",
+    "level": 7
+  },
+  {
+    "index": "006782",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "msvcrt.dll::sub_77C2E531",
+    "level": 6
+  },
+  {
+    "index": "006784",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "msvcrt.dll::sub_77C3038A",
+    "level": 5
+  },
+  {
+    "index": "006787",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "msvcrt.dll::sub_77C3745B",
+    "level": 5
+  },
+  {
+    "index": "006796",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "msvcrt.dll::sub_77C3745B",
+    "level": 5
+  },
+  {
+    "index": "006797",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "msvcrt.dll::_write",
+    "level": 4
+  },
+  {
+    "index": "006804",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "msvcrt.dll::_write",
+    "level": 4
+  },
+  {
+    "index": "006807",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "msvcrt.dll::sub_77C37420",
+    "level": 5
+  },
+  {
+    "index": "006826",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "msvcrt.dll::sub_77C37420",
+    "level": 5
+  },
+  {
+    "index": "006841",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "msvcrt.dll::sub_77C2E4B4",
+    "level": 5
+  },
+  {
+    "index": "006862",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::RtlEnterCriticalSection",
+    "level": 6
+  },
+  {
+    "index": "006873",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::RtlEnterCriticalSection",
+    "level": 6
+  },
+  {
+    "index": "006880",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "msvcrt.dll::sub_77C2E4B4",
+    "level": 5
+  },
+  {
+    "index": "006889",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "msvcrt.dll::sub_77C30109",
+    "level": 5
+  },
+  {
+    "index": "006926",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "kernel32.dll::WriteFile",
+    "level": 6
+  },
+  {
+    "index": "006929",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "kernel32.dll::sub_7C8024CB",
+    "level": 7
+  },
+  {
+    "index": "006948",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "kernel32.dll::sub_7C8024CB",
+    "level": 7
+  },
+  {
+    "index": "006980",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::ZwWriteFile",
+    "level": 7
+  },
+  {
+    "index": "006983",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::KiFastSystemCall",
+    "level": 8
+  },
+  {
+    "index": "006986",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::KiFastSystemCall",
+    "level": 8
+  },
+  {
+    "index": "006987",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::ZwWriteFile",
+    "level": 7
+  },
+  {
+    "index": "006996",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "kernel32.dll::sub_7C80250B",
+    "level": 7
+  },
+  {
+    "index": "007005",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "kernel32.dll::sub_7C80250B",
+    "level": 7
+  },
+  {
+    "index": "007006",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "kernel32.dll::WriteFile",
+    "level": 6
+  },
+  {
+    "index": "007021",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "msvcrt.dll::sub_77C57973",
+    "level": 6
+  },
+  {
+    "index": "007026",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "msvcrt.dll::sub_77C57973",
+    "level": 6
+  },
+  {
+    "index": "007028",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "msvcrt.dll::sub_77C30109",
+    "level": 5
+  },
+  {
+    "index": "007033",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "msvcrt.dll::sub_77C3038A",
+    "level": 5
+  },
+  {
+    "index": "007035",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "msvcrt.dll::sub_77C2E531",
+    "level": 6
+  },
+  {
+    "index": "007047",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::RtlLeaveCriticalSection",
+    "level": 7
+  },
+  {
+    "index": "007055",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::RtlLeaveCriticalSection",
+    "level": 7
+  },
+  {
+    "index": "007057",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "msvcrt.dll::sub_77C2E531",
+    "level": 6
+  },
+  {
+    "index": "007059",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "msvcrt.dll::sub_77C3038A",
+    "level": 5
+  },
+  {
+    "index": "007062",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "msvcrt.dll::sub_77C3745B",
+    "level": 5
+  },
+  {
+    "index": "007071",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "msvcrt.dll::sub_77C3745B",
+    "level": 5
+  },
+  {
+    "index": "007072",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "msvcrt.dll::_write",
+    "level": 4
+  },
+  {
+    "index": "018610",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "msvcrt.dll::_close",
+    "level": 4
+  },
+  {
+    "index": "018613",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "msvcrt.dll::sub_77C37420",
+    "level": 5
+  },
+  {
+    "index": "018632",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "msvcrt.dll::sub_77C37420",
+    "level": 5
+  },
+  {
+    "index": "018647",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "msvcrt.dll::sub_77C2E4B4",
+    "level": 5
+  },
+  {
+    "index": "018668",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::RtlEnterCriticalSection",
+    "level": 6
+  },
+  {
+    "index": "018679",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::RtlEnterCriticalSection",
+    "level": 6
+  },
+  {
+    "index": "018686",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "msvcrt.dll::sub_77C2E4B4",
+    "level": 5
+  },
+  {
+    "index": "018693",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "msvcrt.dll::sub_77C2D04A",
+    "level": 5
+  },
+  {
+    "index": "018701",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "msvcrt.dll::_get_osfhandle",
+    "level": 6
+  },
+  {
+    "index": "018718",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "msvcrt.dll::_get_osfhandle",
+    "level": 6
+  },
+  {
+    "index": "018727",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "msvcrt.dll::_get_osfhandle",
+    "level": 6
+  },
+  {
+    "index": "018744",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "msvcrt.dll::_get_osfhandle",
+    "level": 6
+  },
+  {
+    "index": "018747",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "kernel32.dll::CloseHandle",
+    "level": 6
+  },
+  {
+    "index": "018765",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::ZwClose",
+    "level": 7
+  },
+  {
+    "index": "018768",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::KiFastSystemCall",
+    "level": 8
+  },
+  {
+    "index": "018771",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::KiFastSystemCall",
+    "level": 8
+  },
+  {
+    "index": "018772",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::ZwClose",
+    "level": 7
+  },
+  {
+    "index": "018778",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "kernel32.dll::CloseHandle",
+    "level": 6
+  },
+  {
+    "index": "018783",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "msvcrt.dll::sub_77C2E3DF",
+    "level": 6
+  },
+  {
+    "index": "018821",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "msvcrt.dll::sub_77C2E3DF",
+    "level": 6
+  },
+  {
+    "index": "018835",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "msvcrt.dll::sub_77C2D04A",
+    "level": 5
+  },
+  {
+    "index": "018840",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "msvcrt.dll::sub_77C2D14E",
+    "level": 5
+  },
+  {
+    "index": "018842",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "msvcrt.dll::sub_77C2E531",
+    "level": 6
+  },
+  {
+    "index": "018854",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::RtlLeaveCriticalSection",
+    "level": 7
+  },
+  {
+    "index": "018862",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::RtlLeaveCriticalSection",
+    "level": 7
+  },
+  {
+    "index": "018864",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "msvcrt.dll::sub_77C2E531",
+    "level": 6
+  },
+  {
+    "index": "018866",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "msvcrt.dll::sub_77C2D14E",
+    "level": 5
+  },
+  {
+    "index": "018869",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "msvcrt.dll::sub_77C3745B",
+    "level": 5
+  },
+  {
+    "index": "018878",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "msvcrt.dll::sub_77C3745B",
+    "level": 5
+  },
+  {
+    "index": "018879",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "msvcrt.dll::_close",
+    "level": 4
+  },
+  {
+    "index": "018885",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "foo.exe::sub_401E40",
+    "level": 3
+  },
+  {
+    "index": "018894",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "foo.exe::sub_40136C",
+    "level": 3
+  },
+  {
+    "index": "018900",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "kernel32.dll::GetModuleHandleA",
+    "level": 4
+  },
+  {
+    "index": "018907",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "kernel32.dll::sub_7C80E2A4",
+    "level": 5
+  },
+  {
+    "index": "018919",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::RtlInitAnsiString",
+    "level": 6
+  },
+  {
+    "index": "018955",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::RtlInitAnsiString",
+    "level": 6
+  },
+  {
+    "index": "018962",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::RtlAnsiStringToUnicodeString",
+    "level": 6
+  },
+  {
+    "index": "018992",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::RtlMultiByteToUnicodeN",
+    "level": 7
+  },
+  {
+    "index": "019090",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::RtlMultiByteToUnicodeN",
+    "level": 7
+  },
+  {
+    "index": "019103",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::RtlAnsiStringToUnicodeString",
+    "level": 6
+  },
+  {
+    "index": "019109",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "kernel32.dll::sub_7C80E2A4",
+    "level": 5
+  },
+  {
+    "index": "019113",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "kernel32.dll::GetModuleHandleW",
+    "level": 5
+  },
+  {
+    "index": "019124",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "kernel32.dll::sub_7C80E6B9",
+    "level": 6
+  },
+  {
+    "index": "019127",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "kernel32.dll::sub_7C8024CB",
+    "level": 7
+  },
+  {
+    "index": "019146",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "kernel32.dll::sub_7C8024CB",
+    "level": 7
+  },
+  {
+    "index": "019175",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::RtlInitUnicodeString",
+    "level": 7
+  },
+  {
+    "index": "019213",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::RtlInitUnicodeString",
+    "level": 7
+  },
+  {
+    "index": "019231",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "kernel32.dll::sub_7C80E676",
+    "level": 7
+  },
+  {
+    "index": "019234",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "kernel32.dll::sub_7C8024CB",
+    "level": 8
+  },
+  {
+    "index": "019253",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "kernel32.dll::sub_7C8024CB",
+    "level": 8
+  },
+  {
+    "index": "019261",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::LdrGetDllHandle",
+    "level": 8
+  },
+  {
+    "index": "019270",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::LdrGetDllHandleEx",
+    "level": 9
+  },
+  {
+    "index": "019273",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C90EDC2",
+    "level": 10
+  },
+  {
+    "index": "019292",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C90EDC2",
+    "level": 10
+  },
+  {
+    "index": "019326",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::LdrLockLoaderLock",
+    "level": 10
+  },
+  {
+    "index": "019329",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C90EDC2",
+    "level": 11
+  },
+  {
+    "index": "019348",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C90EDC2",
+    "level": 11
+  },
+  {
+    "index": "019376",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::RtlEnterCriticalSection",
+    "level": 11
+  },
+  {
+    "index": "019387",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::RtlEnterCriticalSection",
+    "level": 11
+  },
+  {
+    "index": "019405",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C90EE02",
+    "level": 11
+  },
+  {
+    "index": "019414",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C90EE02",
+    "level": 11
+  },
+  {
+    "index": "019415",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::LdrLockLoaderLock",
+    "level": 10
+  },
+  {
+    "index": "019436",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::RtlDosApplyFileIsolationRedirection_Ustr",
+    "level": 10
+  },
+  {
+    "index": "019499",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C91565D",
+    "level": 11
+  },
+  {
+    "index": "019534",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C91565D",
+    "level": 11
+  },
+  {
+    "index": "019556",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C9156C9",
+    "level": 11
+  },
+  {
+    "index": "019579",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::RtlFindCharInUnicodeString",
+    "level": 12
+  },
+  {
+    "index": "019603",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::RtlValidateUnicodeString",
+    "level": 13
+  },
+  {
+    "index": "019642",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::RtlValidateUnicodeString",
+    "level": 13
+  },
+  {
+    "index": "019647",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::RtlValidateUnicodeString",
+    "level": 13
+  },
+  {
+    "index": "019686",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::RtlValidateUnicodeString",
+    "level": 13
+  },
+  {
+    "index": "019752",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C910387",
+    "level": 13
+  },
+  {
+    "index": "019757",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C910387",
+    "level": 13
+  },
+  {
+    "index": "019759",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::RtlFindCharInUnicodeString",
+    "level": 12
+  },
+  {
+    "index": "019771",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C9156C9",
+    "level": 11
+  },
+  {
+    "index": "019782",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C915739",
+    "level": 11
+  },
+  {
+    "index": "019800",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C9147EA",
+    "level": 12
+  },
+  {
+    "index": "019823",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C9147EA",
+    "level": 12
+  },
+  {
+    "index": "019835",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::RtlFreeUnicodeString",
+    "level": 12
+  },
+  {
+    "index": "019846",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::RtlFreeUnicodeString",
+    "level": 12
+  },
+  {
+    "index": "019851",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C915739",
+    "level": 11
+  },
+  {
+    "index": "019877",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C915A6E",
+    "level": 11
+  },
+  {
+    "index": "019936",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::RtlFindActivationContextSectionString",
+    "level": 12
+  },
+  {
+    "index": "019962",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C914F91",
+    "level": 13
+  },
+  {
+    "index": "019997",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C914F91",
+    "level": 13
+  },
+  {
+    "index": "020014",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C915074",
+    "level": 13
+  },
+  {
+    "index": "020038",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C9150CB",
+    "level": 14
+  },
+  {
+    "index": "020082",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C915190",
+    "level": 15
+  },
+  {
+    "index": "020133",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::bsearch",
+    "level": 16
+  },
+  {
+    "index": "020161",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C91527C",
+    "level": 17
+  },
+  {
+    "index": "020174",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C91527C",
+    "level": 17
+  },
+  {
+    "index": "020185",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::bsearch",
+    "level": 16
+  },
+  {
+    "index": "020209",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C915190",
+    "level": 15
+  },
+  {
+    "index": "020233",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C9150CB",
+    "level": 14
+  },
+  {
+    "index": "020238",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C915074",
+    "level": 13
+  },
+  {
+    "index": "020257",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C91555C",
+    "level": 13
+  },
+  {
+    "index": "020292",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::RtlHashUnicodeString",
+    "level": 14
+  },
+  {
+    "index": "020578",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::RtlHashUnicodeString",
+    "level": 14
+  },
+  {
+    "index": "020674",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C91555C",
+    "level": 13
+  },
+  {
+    "index": "020687",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C9154F0",
+    "level": 13
+  },
+  {
+    "index": "020714",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C9150CB",
+    "level": 14
+  },
+  {
+    "index": "020753",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C9150CB",
+    "level": 14
+  },
+  {
+    "index": "020758",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C9154F0",
+    "level": 13
+  },
+  {
+    "index": "020768",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::RtlFindActivationContextSectionString",
+    "level": 12
+  },
+  {
+    "index": "020797",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C910387",
+    "level": 12
+  },
+  {
+    "index": "020802",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C910387",
+    "level": 12
+  },
+  {
+    "index": "020804",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C915A6E",
+    "level": 11
+  },
+  {
+    "index": "020838",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::RtlFreeUnicodeString",
+    "level": 11
+  },
+  {
+    "index": "020849",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::RtlFreeUnicodeString",
+    "level": 11
+  },
+  {
+    "index": "020873",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C910387",
+    "level": 11
+  },
+  {
+    "index": "020878",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C910387",
+    "level": 11
+  },
+  {
+    "index": "020880",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::RtlDosApplyFileIsolationRedirection_Ustr",
+    "level": 10
+  },
+  {
+    "index": "020898",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::RtlEqualUnicodeString",
+    "level": 10
+  },
+  {
+    "index": "020916",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::RtlEqualUnicodeString",
+    "level": 10
+  },
+  {
+    "index": "021158",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::RtlInitUnicodeString",
+    "level": 10
+  },
+  {
+    "index": "021196",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::RtlInitUnicodeString",
+    "level": 10
+  },
+  {
+    "index": "021209",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C915CD8",
+    "level": 10
+  },
+  {
+    "index": "021212",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C90EDC2",
+    "level": 11
+  },
+  {
+    "index": "021231",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C90EDC2",
+    "level": 11
+  },
+  {
+    "index": "021253",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::RtlUpcaseUnicodeChar",
+    "level": 11
+  },
+  {
+    "index": "021265",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::RtlUpcaseUnicodeChar",
+    "level": 11
+  },
+  {
+    "index": "021281",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C910387",
+    "level": 11
+  },
+  {
+    "index": "021286",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C910387",
+    "level": 11
+  },
+  {
+    "index": "021287",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C90EE02",
+    "level": 11
+  },
+  {
+    "index": "021296",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C90EE02",
+    "level": 11
+  },
+  {
+    "index": "021297",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C915CD8",
+    "level": 10
+  },
+  {
+    "index": "021309",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C9166C1",
+    "level": 10
+  },
+  {
+    "index": "021314",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::LdrUnlockLoaderLock",
+    "level": 11
+  },
+  {
+    "index": "021317",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C90EDC2",
+    "level": 12
+  },
+  {
+    "index": "021336",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C90EDC2",
+    "level": 12
+  },
+  {
+    "index": "021353",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::RtlLeaveCriticalSection",
+    "level": 12
+  },
+  {
+    "index": "021361",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::RtlLeaveCriticalSection",
+    "level": 12
+  },
+  {
+    "index": "021363",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C90EE02",
+    "level": 12
+  },
+  {
+    "index": "021372",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C90EE02",
+    "level": 12
+  },
+  {
+    "index": "021373",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::LdrUnlockLoaderLock",
+    "level": 11
+  },
+  {
+    "index": "021375",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C9166C1",
+    "level": 10
+  },
+  {
+    "index": "021377",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C90EE02",
+    "level": 10
+  },
+  {
+    "index": "021386",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C90EE02",
+    "level": 10
+  },
+  {
+    "index": "021387",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::LdrGetDllHandleEx",
+    "level": 9
+  },
+  {
+    "index": "021389",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::LdrGetDllHandle",
+    "level": 8
+  },
+  {
+    "index": "021394",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "kernel32.dll::sub_7C80E1CF",
+    "level": 8
+  },
+  {
+    "index": "021409",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::RtlEnterCriticalSection",
+    "level": 9
+  },
+  {
+    "index": "021420",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::RtlEnterCriticalSection",
+    "level": 9
+  },
+  {
+    "index": "021424",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::RtlLeaveCriticalSection",
+    "level": 9
+  },
+  {
+    "index": "021432",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::RtlLeaveCriticalSection",
+    "level": 9
+  },
+  {
+    "index": "021445",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "kernel32.dll::sub_7C80E432",
+    "level": 9
+  },
+  {
+    "index": "021448",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "kernel32.dll::sub_7C8024CB",
+    "level": 10
+  },
+  {
+    "index": "021467",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "kernel32.dll::sub_7C8024CB",
+    "level": 10
+  },
+  {
+    "index": "021501",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "kernel32.dll::sub_7C80E30F",
+    "level": 10
+  },
+  {
+    "index": "021508",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::wcschr",
+    "level": 11
+  },
+  {
+    "index": "021536",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::wcschr",
+    "level": 11
+  },
+  {
+    "index": "021544",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::wcsrchr",
+    "level": 11
+  },
+  {
+    "index": "021852",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::wcsrchr",
+    "level": 11
+  },
+  {
+    "index": "021859",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "kernel32.dll::sub_7C80E30F",
+    "level": 10
+  },
+  {
+    "index": "021919",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::RtlAcquirePebLock",
+    "level": 10
+  },
+  {
+    "index": "021922",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C90EDC2",
+    "level": 11
+  },
+  {
+    "index": "021941",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C90EDC2",
+    "level": 11
+  },
+  {
+    "index": "021949",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::RtlEnterCriticalSection",
+    "level": 11
+  },
+  {
+    "index": "021960",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::RtlEnterCriticalSection",
+    "level": 11
+  },
+  {
+    "index": "021962",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C90EE02",
+    "level": 11
+  },
+  {
+    "index": "021971",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C90EE02",
+    "level": 11
+  },
+  {
+    "index": "021972",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::RtlAcquirePebLock",
+    "level": 10
+  },
+  {
+    "index": "021981",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::RtlQueryEnvironmentVariable_U",
+    "level": 10
+  },
+  {
+    "index": "021984",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C90EDC2",
+    "level": 11
+  },
+  {
+    "index": "022003",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C90EDC2",
+    "level": 11
+  },
+  {
+    "index": "022014",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::RtlAcquirePebLock",
+    "level": 11
+  },
+  {
+    "index": "022017",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C90EDC2",
+    "level": 12
+  },
+  {
+    "index": "022036",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C90EDC2",
+    "level": 12
+  },
+  {
+    "index": "022044",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::RtlEnterCriticalSection",
+    "level": 12
+  },
+  {
+    "index": "022056",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::RtlEnterCriticalSection",
+    "level": 12
+  },
+  {
+    "index": "022058",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C90EE02",
+    "level": 12
+  },
+  {
+    "index": "022067",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C90EE02",
+    "level": 12
+  },
+  {
+    "index": "022068",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::RtlAcquirePebLock",
+    "level": 11
+  },
+  {
+    "index": "022081",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::RtlEqualUnicodeString",
+    "level": 11
+  },
+  {
+    "index": "022199",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::RtlEqualUnicodeString",
+    "level": 11
+  },
+  {
+    "index": "022213",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::RtlReleasePebLock",
+    "level": 11
+  },
+  {
+    "index": "022217",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::RtlLeaveCriticalSection",
+    "level": 12
+  },
+  {
+    "index": "022223",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::RtlLeaveCriticalSection",
+    "level": 12
+  },
+  {
+    "index": "022224",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::RtlReleasePebLock",
+    "level": 11
+  },
+  {
+    "index": "022226",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C90EE02",
+    "level": 11
+  },
+  {
+    "index": "022235",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C90EE02",
+    "level": 11
+  },
+  {
+    "index": "022236",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::RtlQueryEnvironmentVariable_U",
+    "level": 10
+  },
+  {
+    "index": "022250",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::RtlAllocateHeap",
+    "level": 10
+  },
+  {
+    "index": "022253",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C90EDC2",
+    "level": 11
+  },
+  {
+    "index": "022272",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C90EDC2",
+    "level": 11
+  },
+  {
+    "index": "022322",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C910701",
+    "level": 11
+  },
+  {
+    "index": "022325",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C90EDC2",
+    "level": 12
+  },
+  {
+    "index": "022344",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C90EDC2",
+    "level": 12
+  },
+  {
+    "index": "022349",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C902F06",
+    "level": 12
+  },
+  {
+    "index": "022363",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C902F06",
+    "level": 12
+  },
+  {
+    "index": "022368",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C90EE02",
+    "level": 12
+  },
+  {
+    "index": "022377",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C90EE02",
+    "level": 12
+  },
+  {
+    "index": "022378",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C910701",
+    "level": 11
+  },
+  {
+    "index": "022397",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C90EE02",
+    "level": 11
+  },
+  {
+    "index": "022406",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C90EE02",
+    "level": 11
+  },
+  {
+    "index": "022407",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::RtlAllocateHeap",
+    "level": 10
+  },
+  {
+    "index": "022416",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::RtlQueryEnvironmentVariable_U",
+    "level": 10
+  },
+  {
+    "index": "022419",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C90EDC2",
+    "level": 11
+  },
+  {
+    "index": "022438",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C90EDC2",
+    "level": 11
+  },
+  {
+    "index": "022449",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::RtlAcquirePebLock",
+    "level": 11
+  },
+  {
+    "index": "022452",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C90EDC2",
+    "level": 12
+  },
+  {
+    "index": "022471",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C90EDC2",
+    "level": 12
+  },
+  {
+    "index": "022479",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::RtlEnterCriticalSection",
+    "level": 12
+  },
+  {
+    "index": "022491",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::RtlEnterCriticalSection",
+    "level": 12
+  },
+  {
+    "index": "022493",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C90EE02",
+    "level": 12
+  },
+  {
+    "index": "022502",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C90EE02",
+    "level": 12
+  },
+  {
+    "index": "022503",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::RtlAcquirePebLock",
+    "level": 11
+  },
+  {
+    "index": "022516",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::RtlEqualUnicodeString",
+    "level": 11
+  },
+  {
+    "index": "022634",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::RtlEqualUnicodeString",
+    "level": 11
+  },
+  {
+    "index": "022690",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::RtlReleasePebLock",
+    "level": 11
+  },
+  {
+    "index": "022694",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::RtlLeaveCriticalSection",
+    "level": 12
+  },
+  {
+    "index": "022700",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::RtlLeaveCriticalSection",
+    "level": 12
+  },
+  {
+    "index": "022701",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::RtlReleasePebLock",
+    "level": 11
+  },
+  {
+    "index": "022703",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C90EE02",
+    "level": 11
+  },
+  {
+    "index": "022712",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C90EE02",
+    "level": 11
+  },
+  {
+    "index": "022713",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::RtlQueryEnvironmentVariable_U",
+    "level": 10
+  },
+  {
+    "index": "022716",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "kernel32.dll::sub_7C80E352",
+    "level": 10
+  },
+  {
+    "index": "022719",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::RtlReleasePebLock",
+    "level": 11
+  },
+  {
+    "index": "022723",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::RtlLeaveCriticalSection",
+    "level": 12
+  },
+  {
+    "index": "022731",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::RtlLeaveCriticalSection",
+    "level": 12
+  },
+  {
+    "index": "022732",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::RtlReleasePebLock",
+    "level": 11
+  },
+  {
+    "index": "022733",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "kernel32.dll::sub_7C80E352",
+    "level": 10
+  },
+  {
+    "index": "022754",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::RtlAllocateHeap",
+    "level": 10
+  },
+  {
+    "index": "022757",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C90EDC2",
+    "level": 11
+  },
+  {
+    "index": "022776",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C90EDC2",
+    "level": 11
+  },
+  {
+    "index": "022826",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C910701",
+    "level": 11
+  },
+  {
+    "index": "022829",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C90EDC2",
+    "level": 12
+  },
+  {
+    "index": "022848",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C90EDC2",
+    "level": 12
+  },
+  {
+    "index": "022853",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C902F06",
+    "level": 12
+  },
+  {
+    "index": "022867",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C902F06",
+    "level": 12
+  },
+  {
+    "index": "022872",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C90EE02",
+    "level": 12
+  },
+  {
+    "index": "022881",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C90EE02",
+    "level": 12
+  },
+  {
+    "index": "022882",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C910701",
+    "level": 11
+  },
+  {
+    "index": "022901",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C90EE02",
+    "level": 11
+  },
+  {
+    "index": "022910",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C90EE02",
+    "level": 11
+  },
+  {
+    "index": "022911",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::RtlAllocateHeap",
+    "level": 10
+  },
+  {
+    "index": "023113",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "kernel32.dll::sub_7C80E600",
+    "level": 10
+  },
+  {
+    "index": "023121",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::RtlFreeHeap",
+    "level": 11
+  },
+  {
+    "index": "023124",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C90EDC2",
+    "level": 12
+  },
+  {
+    "index": "023143",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C90EDC2",
+    "level": 12
+  },
+  {
+    "index": "023179",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::RtlGetNtGlobalFlags",
+    "level": 12
+  },
+  {
+    "index": "023183",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::RtlGetNtGlobalFlags",
+    "level": 12
+  },
+  {
+    "index": "023216",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C9105A2",
+    "level": 12
+  },
+  {
+    "index": "023224",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C91058D",
+    "level": 13
+  },
+  {
+    "index": "023231",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C91058D",
+    "level": 13
+  },
+  {
+    "index": "023236",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C902F2F",
+    "level": 13
+  },
+  {
+    "index": "023249",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C902F2F",
+    "level": 13
+  },
+  {
+    "index": "023253",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C9105A2",
+    "level": 12
+  },
+  {
+    "index": "023259",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C90EE02",
+    "level": 12
+  },
+  {
+    "index": "023268",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C90EE02",
+    "level": 12
+  },
+  {
+    "index": "023269",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::RtlFreeHeap",
+    "level": 11
+  },
+  {
+    "index": "023272",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "kernel32.dll::sub_7C80E17B",
+    "level": 11
+  },
+  {
+    "index": "023277",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "kernel32.dll::sub_7C80E17B",
+    "level": 11
+  },
+  {
+    "index": "023282",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "kernel32.dll::sub_7C80E600",
+    "level": 10
+  },
+  {
+    "index": "023284",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "kernel32.dll::sub_7C80250B",
+    "level": 10
+  },
+  {
+    "index": "023293",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "kernel32.dll::sub_7C80250B",
+    "level": 10
+  },
+  {
+    "index": "023294",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "kernel32.dll::sub_7C80E432",
+    "level": 9
+  },
+  {
+    "index": "023299",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "kernel32.dll::sub_7C809711",
+    "level": 9
+  },
+  {
+    "index": "023304",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "kernel32.dll::sub_7C809711",
+    "level": 9
+  },
+  {
+    "index": "023306",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "kernel32.dll::sub_7C80E1CF",
+    "level": 8
+  },
+  {
+    "index": "023318",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::LdrGetDllHandle",
+    "level": 8
+  },
+  {
+    "index": "023327",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::LdrGetDllHandleEx",
+    "level": 9
+  },
+  {
+    "index": "023330",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C90EDC2",
+    "level": 10
+  },
+  {
+    "index": "023349",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C90EDC2",
+    "level": 10
+  },
+  {
+    "index": "023383",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::LdrLockLoaderLock",
+    "level": 10
+  },
+  {
+    "index": "023386",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C90EDC2",
+    "level": 11
+  },
+  {
+    "index": "023405",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C90EDC2",
+    "level": 11
+  },
+  {
+    "index": "023433",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::RtlEnterCriticalSection",
+    "level": 11
+  },
+  {
+    "index": "023444",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::RtlEnterCriticalSection",
+    "level": 11
+  },
+  {
+    "index": "023462",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C90EE02",
+    "level": 11
+  },
+  {
+    "index": "023471",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C90EE02",
+    "level": 11
+  },
+  {
+    "index": "023472",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::LdrLockLoaderLock",
+    "level": 10
+  },
+  {
+    "index": "023493",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::RtlDosApplyFileIsolationRedirection_Ustr",
+    "level": 10
+  },
+  {
+    "index": "023556",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C91565D",
+    "level": 11
+  },
+  {
+    "index": "023591",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C91565D",
+    "level": 11
+  },
+  {
+    "index": "023613",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C9156C9",
+    "level": 11
+  },
+  {
+    "index": "023636",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::RtlFindCharInUnicodeString",
+    "level": 12
+  },
+  {
+    "index": "023660",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::RtlValidateUnicodeString",
+    "level": 13
+  },
+  {
+    "index": "023699",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::RtlValidateUnicodeString",
+    "level": 13
+  },
+  {
+    "index": "023704",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::RtlValidateUnicodeString",
+    "level": 13
+  },
+  {
+    "index": "023743",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::RtlValidateUnicodeString",
+    "level": 13
+  },
+  {
+    "index": "023809",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C910387",
+    "level": 13
+  },
+  {
+    "index": "023814",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C910387",
+    "level": 13
+  },
+  {
+    "index": "023816",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::RtlFindCharInUnicodeString",
+    "level": 12
+  },
+  {
+    "index": "023828",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C9156C9",
+    "level": 11
+  },
+  {
+    "index": "023839",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C915739",
+    "level": 11
+  },
+  {
+    "index": "023857",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C9147EA",
+    "level": 12
+  },
+  {
+    "index": "023880",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C9147EA",
+    "level": 12
+  },
+  {
+    "index": "023892",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::RtlFreeUnicodeString",
+    "level": 12
+  },
+  {
+    "index": "023903",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::RtlFreeUnicodeString",
+    "level": 12
+  },
+  {
+    "index": "023908",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C915739",
+    "level": 11
+  },
+  {
+    "index": "023934",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C915A6E",
+    "level": 11
+  },
+  {
+    "index": "023993",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::RtlFindActivationContextSectionString",
+    "level": 12
+  },
+  {
+    "index": "024019",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C914F91",
+    "level": 13
+  },
+  {
+    "index": "024054",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C914F91",
+    "level": 13
+  },
+  {
+    "index": "024071",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C915074",
+    "level": 13
+  },
+  {
+    "index": "024095",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C9150CB",
+    "level": 14
+  },
+  {
+    "index": "024139",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C915190",
+    "level": 15
+  },
+  {
+    "index": "024190",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::bsearch",
+    "level": 16
+  },
+  {
+    "index": "024218",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C91527C",
+    "level": 17
+  },
+  {
+    "index": "024231",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C91527C",
+    "level": 17
+  },
+  {
+    "index": "024242",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::bsearch",
+    "level": 16
+  },
+  {
+    "index": "024266",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C915190",
+    "level": 15
+  },
+  {
+    "index": "024290",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C9150CB",
+    "level": 14
+  },
+  {
+    "index": "024295",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C915074",
+    "level": 13
+  },
+  {
+    "index": "024314",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C91555C",
+    "level": 13
+  },
+  {
+    "index": "024349",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::RtlHashUnicodeString",
+    "level": 14
+  },
+  {
+    "index": "024635",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::RtlHashUnicodeString",
+    "level": 14
+  },
+  {
+    "index": "024731",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C91555C",
+    "level": 13
+  },
+  {
+    "index": "024744",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C9154F0",
+    "level": 13
+  },
+  {
+    "index": "024771",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C9150CB",
+    "level": 14
+  },
+  {
+    "index": "024810",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C9150CB",
+    "level": 14
+  },
+  {
+    "index": "024815",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C9154F0",
+    "level": 13
+  },
+  {
+    "index": "024825",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::RtlFindActivationContextSectionString",
+    "level": 12
+  },
+  {
+    "index": "024854",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C910387",
+    "level": 12
+  },
+  {
+    "index": "024859",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C910387",
+    "level": 12
+  },
+  {
+    "index": "024861",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C915A6E",
+    "level": 11
+  },
+  {
+    "index": "024895",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::RtlFreeUnicodeString",
+    "level": 11
+  },
+  {
+    "index": "024906",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::RtlFreeUnicodeString",
+    "level": 11
+  },
+  {
+    "index": "024930",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C910387",
+    "level": 11
+  },
+  {
+    "index": "024935",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C910387",
+    "level": 11
+  },
+  {
+    "index": "024937",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::RtlDosApplyFileIsolationRedirection_Ustr",
+    "level": 10
+  },
+  {
+    "index": "024955",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::RtlEqualUnicodeString",
+    "level": 10
+  },
+  {
+    "index": "024973",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::RtlEqualUnicodeString",
+    "level": 10
+  },
+  {
+    "index": "025215",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::RtlInitUnicodeString",
+    "level": 10
+  },
+  {
+    "index": "025253",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::RtlInitUnicodeString",
+    "level": 10
+  },
+  {
+    "index": "025266",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C915CD8",
+    "level": 10
+  },
+  {
+    "index": "025269",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C90EDC2",
+    "level": 11
+  },
+  {
+    "index": "025288",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C90EDC2",
+    "level": 11
+  },
+  {
+    "index": "025483",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::RtlFindActivationContextSectionString",
+    "level": 11
+  },
+  {
+    "index": "025509",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C914F91",
+    "level": 12
+  },
+  {
+    "index": "025533",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C914F91",
+    "level": 12
+  },
+  {
+    "index": "025550",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C915074",
+    "level": 12
+  },
+  {
+    "index": "025574",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C9150CB",
+    "level": 13
+  },
+  {
+    "index": "025618",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C915190",
+    "level": 14
+  },
+  {
+    "index": "025669",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::bsearch",
+    "level": 15
+  },
+  {
+    "index": "025697",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C91527C",
+    "level": 16
+  },
+  {
+    "index": "025710",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C91527C",
+    "level": 16
+  },
+  {
+    "index": "025721",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::bsearch",
+    "level": 15
+  },
+  {
+    "index": "025745",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C915190",
+    "level": 14
+  },
+  {
+    "index": "025769",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C9150CB",
+    "level": 13
+  },
+  {
+    "index": "025774",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C915074",
+    "level": 12
+  },
+  {
+    "index": "025793",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C91555C",
+    "level": 12
+  },
+  {
+    "index": "025828",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::RtlHashUnicodeString",
+    "level": 13
+  },
+  {
+    "index": "026114",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::RtlHashUnicodeString",
+    "level": 13
+  },
+  {
+    "index": "026210",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C91555C",
+    "level": 12
+  },
+  {
+    "index": "026223",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C9154F0",
+    "level": 12
+  },
+  {
+    "index": "026250",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C9150CB",
+    "level": 13
+  },
+  {
+    "index": "026289",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C9150CB",
+    "level": 13
+  },
+  {
+    "index": "026294",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C9154F0",
+    "level": 12
+  },
+  {
+    "index": "026304",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::RtlFindActivationContextSectionString",
+    "level": 11
+  },
+  {
+    "index": "026316",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::RtlUpcaseUnicodeChar",
+    "level": 11
+  },
+  {
+    "index": "026328",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::RtlUpcaseUnicodeChar",
+    "level": 11
+  },
+  {
+    "index": "026344",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C910387",
+    "level": 11
+  },
+  {
+    "index": "026349",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C910387",
+    "level": 11
+  },
+  {
+    "index": "026350",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C90EE02",
+    "level": 11
+  },
+  {
+    "index": "026359",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C90EE02",
+    "level": 11
+  },
+  {
+    "index": "026360",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C915CD8",
+    "level": 10
+  },
+  {
+    "index": "026372",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C9166C1",
+    "level": 10
+  },
+  {
+    "index": "026377",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::LdrUnlockLoaderLock",
+    "level": 11
+  },
+  {
+    "index": "026380",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C90EDC2",
+    "level": 12
+  },
+  {
+    "index": "026399",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C90EDC2",
+    "level": 12
+  },
+  {
+    "index": "026416",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::RtlLeaveCriticalSection",
+    "level": 12
+  },
+  {
+    "index": "026424",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::RtlLeaveCriticalSection",
+    "level": 12
+  },
+  {
+    "index": "026426",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C90EE02",
+    "level": 12
+  },
+  {
+    "index": "026435",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C90EE02",
+    "level": 12
+  },
+  {
+    "index": "026436",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::LdrUnlockLoaderLock",
+    "level": 11
+  },
+  {
+    "index": "026438",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C9166C1",
+    "level": 10
+  },
+  {
+    "index": "026440",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C90EE02",
+    "level": 10
+  },
+  {
+    "index": "026449",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C90EE02",
+    "level": 10
+  },
+  {
+    "index": "026450",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::LdrGetDllHandleEx",
+    "level": 9
+  },
+  {
+    "index": "026452",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::LdrGetDllHandle",
+    "level": 8
+  },
+  {
+    "index": "026461",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::RtlFreeHeap",
+    "level": 8
+  },
+  {
+    "index": "026464",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C90EDC2",
+    "level": 9
+  },
+  {
+    "index": "026483",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C90EDC2",
+    "level": 9
+  },
+  {
+    "index": "026519",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::RtlGetNtGlobalFlags",
+    "level": 9
+  },
+  {
+    "index": "026523",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::RtlGetNtGlobalFlags",
+    "level": 9
+  },
+  {
+    "index": "026556",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C9105A2",
+    "level": 9
+  },
+  {
+    "index": "026564",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C91058D",
+    "level": 10
+  },
+  {
+    "index": "026571",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C91058D",
+    "level": 10
+  },
+  {
+    "index": "026576",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C902F2F",
+    "level": 10
+  },
+  {
+    "index": "026589",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C902F2F",
+    "level": 10
+  },
+  {
+    "index": "026593",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C9105A2",
+    "level": 9
+  },
+  {
+    "index": "026599",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C90EE02",
+    "level": 9
+  },
+  {
+    "index": "026608",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C90EE02",
+    "level": 9
+  },
+  {
+    "index": "026609",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::RtlFreeHeap",
+    "level": 8
+  },
+  {
+    "index": "026614",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "kernel32.dll::sub_7C80937B",
+    "level": 8
+  },
+  {
+    "index": "026620",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::RtlNtStatusToDosError",
+    "level": 9
+  },
+  {
+    "index": "026623",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C90EDC2",
+    "level": 10
+  },
+  {
+    "index": "026642",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C90EDC2",
+    "level": 10
+  },
+  {
+    "index": "026651",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::RtlNtStatusToDosErrorNoTeb",
+    "level": 10
+  },
+  {
+    "index": "027191",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::RtlNtStatusToDosErrorNoTeb",
+    "level": 10
+  },
+  {
+    "index": "027192",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C90EE02",
+    "level": 10
+  },
+  {
+    "index": "027201",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C90EE02",
+    "level": 10
+  },
+  {
+    "index": "027202",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::RtlNtStatusToDosError",
+    "level": 9
+  },
+  {
+    "index": "027205",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "kernel32.dll::sub_7C8092C0",
+    "level": 9
+  },
+  {
+    "index": "027224",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "kernel32.dll::sub_7C8092C0",
+    "level": 9
+  },
+  {
+    "index": "027228",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "kernel32.dll::sub_7C80937B",
+    "level": 8
+  },
+  {
+    "index": "027231",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "kernel32.dll::sub_7C80250B",
+    "level": 8
+  },
+  {
+    "index": "027240",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "kernel32.dll::sub_7C80250B",
+    "level": 8
+  },
+  {
+    "index": "027241",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "kernel32.dll::sub_7C80E676",
+    "level": 7
+  },
+  {
+    "index": "027252",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "kernel32.dll::sub_7C80E841",
+    "level": 7
+  },
+  {
+    "index": "027255",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "kernel32.dll::sub_7C80E841",
+    "level": 7
+  },
+  {
+    "index": "027266",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "kernel32.dll::sub_7C80937B",
+    "level": 7
+  },
+  {
+    "index": "027272",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::RtlNtStatusToDosError",
+    "level": 8
+  },
+  {
+    "index": "027275",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C90EDC2",
+    "level": 9
+  },
+  {
+    "index": "027294",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C90EDC2",
+    "level": 9
+  },
+  {
+    "index": "027303",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::RtlNtStatusToDosErrorNoTeb",
+    "level": 9
+  },
+  {
+    "index": "027843",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::RtlNtStatusToDosErrorNoTeb",
+    "level": 9
+  },
+  {
+    "index": "027844",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C90EE02",
+    "level": 9
+  },
+  {
+    "index": "027853",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C90EE02",
+    "level": 9
+  },
+  {
+    "index": "027854",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::RtlNtStatusToDosError",
+    "level": 8
+  },
+  {
+    "index": "027857",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "kernel32.dll::sub_7C8092C0",
+    "level": 8
+  },
+  {
+    "index": "027874",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "kernel32.dll::sub_7C8092C0",
+    "level": 8
+  },
+  {
+    "index": "027878",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "kernel32.dll::sub_7C80937B",
+    "level": 7
+  },
+  {
+    "index": "027888",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "kernel32.dll::sub_7C809711",
+    "level": 7
+  },
+  {
+    "index": "027893",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "kernel32.dll::sub_7C809711",
+    "level": 7
+  },
+  {
+    "index": "027894",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "kernel32.dll::sub_7C80250B",
+    "level": 7
+  },
+  {
+    "index": "027903",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "kernel32.dll::sub_7C80250B",
+    "level": 7
+  },
+  {
+    "index": "027904",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "kernel32.dll::sub_7C80E6B9",
+    "level": 6
+  },
+  {
+    "index": "027909",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "kernel32.dll::GetModuleHandleW",
+    "level": 5
+  },
+  {
+    "index": "027911",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "kernel32.dll::GetModuleHandleA",
+    "level": 4
+  },
+  {
+    "index": "027920",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "foo.exe::sub_40136C",
+    "level": 3
+  },
+  {
+    "index": "027928",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "msvcrt.dll::_initterm",
+    "level": 3
+  },
+  {
+    "index": "027946",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "msvcrt.dll::sub_77C303FB",
+    "level": 4
+  },
+  {
+    "index": "027960",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "msvcrt.dll::sub_77C303FB",
+    "level": 4
+  },
+  {
+    "index": "027967",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "msvcrt.dll::sub_77C3B8C1",
+    "level": 4
+  },
+  {
+    "index": "027968",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "msvcrt.dll::_flushall",
+    "level": 5
+  },
+  {
+    "index": "027970",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "msvcrt.dll::sub_77C3EE1C",
+    "level": 6
+  },
+  {
+    "index": "027973",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "msvcrt.dll::sub_77C37420",
+    "level": 7
+  },
+  {
+    "index": "027992",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "msvcrt.dll::sub_77C37420",
+    "level": 7
+  },
+  {
+    "index": "027997",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "msvcrt.dll::_lock",
+    "level": 7
+  },
+  {
+    "index": "028007",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::RtlEnterCriticalSection",
+    "level": 8
+  },
+  {
+    "index": "028018",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::RtlEnterCriticalSection",
+    "level": 8
+  },
+  {
+    "index": "028021",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "msvcrt.dll::_lock",
+    "level": 7
+  },
+  {
+    "index": "028036",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "msvcrt.dll::sub_77C3B914",
+    "level": 7
+  },
+  {
+    "index": "028045",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "msvcrt.dll::_lock",
+    "level": 8
+  },
+  {
+    "index": "028055",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::RtlEnterCriticalSection",
+    "level": 9
+  },
+  {
+    "index": "028066",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::RtlEnterCriticalSection",
+    "level": 9
+  },
+  {
+    "index": "028069",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "msvcrt.dll::_lock",
+    "level": 8
+  },
+  {
+    "index": "028072",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "msvcrt.dll::sub_77C3B914",
+    "level": 7
+  },
+  {
+    "index": "028086",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "msvcrt.dll::sub_77C3EDE4",
+    "level": 7
+  },
+  {
+    "index": "028093",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "msvcrt.dll::sub_77C3ED7D",
+    "level": 8
+  },
+  {
+    "index": "028113",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "msvcrt.dll::sub_77C3ED7D",
+    "level": 8
+  },
+  {
+    "index": "028122",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "msvcrt.dll::sub_77C3EDE4",
+    "level": 7
+  },
+  {
+    "index": "028129",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "msvcrt.dll::sub_77C3EEBC",
+    "level": 7
+  },
+  {
+    "index": "028133",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "msvcrt.dll::sub_77C3B97B",
+    "level": 8
+  },
+  {
+    "index": "028142",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "msvcrt.dll::_unlock",
+    "level": 9
+  },
+  {
+    "index": "028148",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::RtlLeaveCriticalSection",
+    "level": 10
+  },
+  {
+    "index": "028156",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::RtlLeaveCriticalSection",
+    "level": 10
+  },
+  {
+    "index": "028158",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "msvcrt.dll::_unlock",
+    "level": 9
+  },
+  {
+    "index": "028161",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "msvcrt.dll::sub_77C3B97B",
+    "level": 8
+  },
+  {
+    "index": "028164",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "msvcrt.dll::sub_77C3EEBC",
+    "level": 7
+  },
+  {
+    "index": "028178",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "msvcrt.dll::sub_77C3B914",
+    "level": 7
+  },
+  {
+    "index": "028187",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "msvcrt.dll::_lock",
+    "level": 8
+  },
+  {
+    "index": "028197",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::RtlEnterCriticalSection",
+    "level": 9
+  },
+  {
+    "index": "028208",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::RtlEnterCriticalSection",
+    "level": 9
+  },
+  {
+    "index": "028211",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "msvcrt.dll::_lock",
+    "level": 8
+  },
+  {
+    "index": "028214",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "msvcrt.dll::sub_77C3B914",
+    "level": 7
+  },
+  {
+    "index": "028228",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "msvcrt.dll::sub_77C3EDE4",
+    "level": 7
+  },
+  {
+    "index": "028235",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "msvcrt.dll::sub_77C3ED7D",
+    "level": 8
+  },
+  {
+    "index": "028257",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "msvcrt.dll::sub_77C3ED7D",
+    "level": 8
+  },
+  {
+    "index": "028266",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "msvcrt.dll::sub_77C3EDE4",
+    "level": 7
+  },
+  {
+    "index": "028273",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "msvcrt.dll::sub_77C3EEBC",
+    "level": 7
+  },
+  {
+    "index": "028277",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "msvcrt.dll::sub_77C3B97B",
+    "level": 8
+  },
+  {
+    "index": "028286",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "msvcrt.dll::_unlock",
+    "level": 9
+  },
+  {
+    "index": "028292",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::RtlLeaveCriticalSection",
+    "level": 10
+  },
+  {
+    "index": "028300",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::RtlLeaveCriticalSection",
+    "level": 10
+  },
+  {
+    "index": "028302",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "msvcrt.dll::_unlock",
+    "level": 9
+  },
+  {
+    "index": "028305",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "msvcrt.dll::sub_77C3B97B",
+    "level": 8
+  },
+  {
+    "index": "028308",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "msvcrt.dll::sub_77C3EEBC",
+    "level": 7
+  },
+  {
+    "index": "028322",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "msvcrt.dll::sub_77C3B914",
+    "level": 7
+  },
+  {
+    "index": "028331",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "msvcrt.dll::_lock",
+    "level": 8
+  },
+  {
+    "index": "028341",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::RtlEnterCriticalSection",
+    "level": 9
+  },
+  {
+    "index": "028352",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::RtlEnterCriticalSection",
+    "level": 9
+  },
+  {
+    "index": "028355",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "msvcrt.dll::_lock",
+    "level": 8
+  },
+  {
+    "index": "028358",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "msvcrt.dll::sub_77C3B914",
+    "level": 7
+  },
+  {
+    "index": "028372",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "msvcrt.dll::sub_77C3EDE4",
+    "level": 7
+  },
+  {
+    "index": "028379",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "msvcrt.dll::sub_77C3ED7D",
+    "level": 8
+  },
+  {
+    "index": "028401",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "msvcrt.dll::sub_77C3ED7D",
+    "level": 8
+  },
+  {
+    "index": "028410",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "msvcrt.dll::sub_77C3EDE4",
+    "level": 7
+  },
+  {
+    "index": "028417",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "msvcrt.dll::sub_77C3EEBC",
+    "level": 7
+  },
+  {
+    "index": "028421",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "msvcrt.dll::sub_77C3B97B",
+    "level": 8
+  },
+  {
+    "index": "028430",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "msvcrt.dll::_unlock",
+    "level": 9
+  },
+  {
+    "index": "028436",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::RtlLeaveCriticalSection",
+    "level": 10
+  },
+  {
+    "index": "028444",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::RtlLeaveCriticalSection",
+    "level": 10
+  },
+  {
+    "index": "028446",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "msvcrt.dll::_unlock",
+    "level": 9
+  },
+  {
+    "index": "028449",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "msvcrt.dll::sub_77C3B97B",
+    "level": 8
+  },
+  {
+    "index": "028452",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "msvcrt.dll::sub_77C3EEBC",
+    "level": 7
+  },
+  {
+    "index": "033074",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "msvcrt.dll::sub_77C3EEE8",
+    "level": 7
+  },
+  {
+    "index": "033076",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "msvcrt.dll::_unlock",
+    "level": 8
+  },
+  {
+    "index": "033082",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::RtlLeaveCriticalSection",
+    "level": 9
+  },
+  {
+    "index": "033090",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::RtlLeaveCriticalSection",
+    "level": 9
+  },
+  {
+    "index": "033092",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "msvcrt.dll::_unlock",
+    "level": 8
+  },
+  {
+    "index": "033094",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "msvcrt.dll::sub_77C3EEE8",
+    "level": 7
+  },
+  {
+    "index": "033098",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "msvcrt.dll::sub_77C3745B",
+    "level": 7
+  },
+  {
+    "index": "033107",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "msvcrt.dll::sub_77C3745B",
+    "level": 7
+  },
+  {
+    "index": "033108",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "msvcrt.dll::sub_77C3EE1C",
+    "level": 6
+  },
+  {
+    "index": "033110",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "msvcrt.dll::_flushall",
+    "level": 5
+  },
+  {
+    "index": "033116",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "msvcrt.dll::sub_77C37420",
+    "level": 5
+  },
+  {
+    "index": "033135",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "msvcrt.dll::sub_77C37420",
+    "level": 5
+  },
+  {
+    "index": "033139",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "msvcrt.dll::_lock",
+    "level": 5
+  },
+  {
+    "index": "033149",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::RtlEnterCriticalSection",
+    "level": 6
+  },
+  {
+    "index": "033160",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::RtlEnterCriticalSection",
+    "level": 6
+  },
+  {
+    "index": "033163",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "msvcrt.dll::_lock",
+    "level": 5
+  },
+  {
+    "index": "038839",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "msvcrt.dll::sub_77C3E9FA",
+    "level": 5
+  },
+  {
+    "index": "038841",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "msvcrt.dll::_unlock",
+    "level": 6
+  },
+  {
+    "index": "038847",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::RtlLeaveCriticalSection",
+    "level": 7
+  },
+  {
+    "index": "038855",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::RtlLeaveCriticalSection",
+    "level": 7
+  },
+  {
+    "index": "038857",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "msvcrt.dll::_unlock",
+    "level": 6
+  },
+  {
+    "index": "038859",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "msvcrt.dll::sub_77C3E9FA",
+    "level": 5
+  },
+  {
+    "index": "038861",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "msvcrt.dll::sub_77C3745B",
+    "level": 5
+  },
+  {
+    "index": "038870",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "msvcrt.dll::sub_77C3745B",
+    "level": 5
+  },
+  {
+    "index": "038871",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "msvcrt.dll::sub_77C3B8C1",
+    "level": 4
+  },
+  {
+    "index": "038878",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "msvcrt.dll::_rmtmp",
+    "level": 4
+  },
+  {
+    "index": "038881",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "msvcrt.dll::sub_77C37420",
+    "level": 5
+  },
+  {
+    "index": "038900",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "msvcrt.dll::sub_77C37420",
+    "level": 5
+  },
+  {
+    "index": "038904",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "msvcrt.dll::_lock",
+    "level": 5
+  },
+  {
+    "index": "038914",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::RtlEnterCriticalSection",
+    "level": 6
+  },
+  {
+    "index": "038925",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::RtlEnterCriticalSection",
+    "level": 6
+  },
+  {
+    "index": "038928",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "msvcrt.dll::_lock",
+    "level": 5
+  },
+  {
+    "index": "038942",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "msvcrt.dll::sub_77C3B914",
+    "level": 5
+  },
+  {
+    "index": "038951",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "msvcrt.dll::_lock",
+    "level": 6
+  },
+  {
+    "index": "038961",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::RtlEnterCriticalSection",
+    "level": 7
+  },
+  {
+    "index": "038972",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::RtlEnterCriticalSection",
+    "level": 7
+  },
+  {
+    "index": "038975",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "msvcrt.dll::_lock",
+    "level": 6
+  },
+  {
+    "index": "038978",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "msvcrt.dll::sub_77C3B914",
+    "level": 5
+  },
+  {
+    "index": "038989",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "msvcrt.dll::sub_77C3F900",
+    "level": 5
+  },
+  {
+    "index": "038993",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "msvcrt.dll::sub_77C3B97B",
+    "level": 6
+  },
+  {
+    "index": "039002",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "msvcrt.dll::_unlock",
+    "level": 7
+  },
+  {
+    "index": "039008",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::RtlLeaveCriticalSection",
+    "level": 8
+  },
+  {
+    "index": "039016",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::RtlLeaveCriticalSection",
+    "level": 8
+  },
+  {
+    "index": "039018",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "msvcrt.dll::_unlock",
+    "level": 7
+  },
+  {
+    "index": "039021",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "msvcrt.dll::sub_77C3B97B",
+    "level": 6
+  },
+  {
+    "index": "039024",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "msvcrt.dll::sub_77C3F900",
+    "level": 5
+  },
+  {
+    "index": "039038",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "msvcrt.dll::sub_77C3B914",
+    "level": 5
+  },
+  {
+    "index": "039047",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "msvcrt.dll::_lock",
+    "level": 6
+  },
+  {
+    "index": "039057",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::RtlEnterCriticalSection",
+    "level": 7
+  },
+  {
+    "index": "039068",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::RtlEnterCriticalSection",
+    "level": 7
+  },
+  {
+    "index": "039071",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "msvcrt.dll::_lock",
+    "level": 6
+  },
+  {
+    "index": "039074",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "msvcrt.dll::sub_77C3B914",
+    "level": 5
+  },
+  {
+    "index": "039085",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "msvcrt.dll::sub_77C3F900",
+    "level": 5
+  },
+  {
+    "index": "039089",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "msvcrt.dll::sub_77C3B97B",
+    "level": 6
+  },
+  {
+    "index": "039098",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "msvcrt.dll::_unlock",
+    "level": 7
+  },
+  {
+    "index": "039104",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::RtlLeaveCriticalSection",
+    "level": 8
+  },
+  {
+    "index": "039112",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::RtlLeaveCriticalSection",
+    "level": 8
+  },
+  {
+    "index": "039114",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "msvcrt.dll::_unlock",
+    "level": 7
+  },
+  {
+    "index": "039117",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "msvcrt.dll::sub_77C3B97B",
+    "level": 6
+  },
+  {
+    "index": "039120",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "msvcrt.dll::sub_77C3F900",
+    "level": 5
+  },
+  {
+    "index": "039134",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "msvcrt.dll::sub_77C3B914",
+    "level": 5
+  },
+  {
+    "index": "039143",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "msvcrt.dll::_lock",
+    "level": 6
+  },
+  {
+    "index": "039153",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::RtlEnterCriticalSection",
+    "level": 7
+  },
+  {
+    "index": "039164",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::RtlEnterCriticalSection",
+    "level": 7
+  },
+  {
+    "index": "039167",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "msvcrt.dll::_lock",
+    "level": 6
+  },
+  {
+    "index": "039170",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "msvcrt.dll::sub_77C3B914",
+    "level": 5
+  },
+  {
+    "index": "039181",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "msvcrt.dll::sub_77C3F900",
+    "level": 5
+  },
+  {
+    "index": "039185",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "msvcrt.dll::sub_77C3B97B",
+    "level": 6
+  },
+  {
+    "index": "039194",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "msvcrt.dll::_unlock",
+    "level": 7
+  },
+  {
+    "index": "039200",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::RtlLeaveCriticalSection",
+    "level": 8
+  },
+  {
+    "index": "039208",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::RtlLeaveCriticalSection",
+    "level": 8
+  },
+  {
+    "index": "039210",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "msvcrt.dll::_unlock",
+    "level": 7
+  },
+  {
+    "index": "039213",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "msvcrt.dll::sub_77C3B97B",
+    "level": 6
+  },
+  {
+    "index": "039216",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "msvcrt.dll::sub_77C3F900",
+    "level": 5
+  },
+  {
+    "index": "043838",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "msvcrt.dll::sub_77C3F923",
+    "level": 5
+  },
+  {
+    "index": "043840",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "msvcrt.dll::_unlock",
+    "level": 6
+  },
+  {
+    "index": "043846",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::RtlLeaveCriticalSection",
+    "level": 7
+  },
+  {
+    "index": "043854",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::RtlLeaveCriticalSection",
+    "level": 7
+  },
+  {
+    "index": "043856",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "msvcrt.dll::_unlock",
+    "level": 6
+  },
+  {
+    "index": "043858",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "msvcrt.dll::sub_77C3F923",
+    "level": 5
+  },
+  {
+    "index": "043860",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "msvcrt.dll::sub_77C3745B",
+    "level": 5
+  },
+  {
+    "index": "043869",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "msvcrt.dll::sub_77C3745B",
+    "level": 5
+  },
+  {
+    "index": "043870",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "msvcrt.dll::_rmtmp",
+    "level": 4
+  },
+  {
+    "index": "043876",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "msvcrt.dll::_initterm",
+    "level": 3
+  },
+  {
+    "index": "043881",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "msvcrt.dll::_initterm",
+    "level": 3
+  },
+  {
+    "index": "043899",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "msvcrt.dll::sub_77C280E4",
+    "level": 4
+  },
+  {
+    "index": "043901",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "kernel32.dll::SetUnhandledExceptionFilter",
+    "level": 5
+  },
+  {
+    "index": "043907",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::RtlEncodePointer",
+    "level": 6
+  },
+  {
+    "index": "043918",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::ZwQueryInformationProcess",
+    "level": 7
+  },
+  {
+    "index": "043921",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::KiFastSystemCall",
+    "level": 8
+  },
+  {
+    "index": "043924",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::KiFastSystemCall",
+    "level": 8
+  },
+  {
+    "index": "043925",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::ZwQueryInformationProcess",
+    "level": 7
+  },
+  {
+    "index": "043929",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::RtlEncodePointer",
+    "level": 6
+  },
+  {
+    "index": "043932",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "kernel32.dll::InterlockedExchange",
+    "level": 6
+  },
+  {
+    "index": "043938",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "kernel32.dll::InterlockedExchange",
+    "level": 6
+  },
+  {
+    "index": "043941",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::RtlDecodePointer",
+    "level": 6
+  },
+  {
+    "index": "043957",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::ZwQueryInformationProcess",
+    "level": 7
+  },
+  {
+    "index": "043960",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::KiFastSystemCall",
+    "level": 8
+  },
+  {
+    "index": "043963",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::KiFastSystemCall",
+    "level": 8
+  },
+  {
+    "index": "043964",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::ZwQueryInformationProcess",
+    "level": 7
+  },
+  {
+    "index": "043968",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::RtlDecodePointer",
+    "level": 6
+  },
+  {
+    "index": "043970",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "kernel32.dll::SetUnhandledExceptionFilter",
+    "level": 5
+  },
+  {
+    "index": "043971",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "msvcrt.dll::sub_77C280E4",
+    "level": 4
+  },
+  {
+    "index": "043977",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "msvcrt.dll::_initterm",
+    "level": 3
+  },
+  {
+    "index": "043983",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "msvcrt.dll::_unlock",
+    "level": 3
+  },
+  {
+    "index": "043989",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::RtlLeaveCriticalSection",
+    "level": 4
+  },
+  {
+    "index": "043997",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::RtlLeaveCriticalSection",
+    "level": 4
+  },
+  {
+    "index": "043999",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "msvcrt.dll::_unlock",
+    "level": 3
+  },
+  {
+    "index": "044003",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "msvcrt.dll::sub_77C39DDB",
+    "level": 2
+  },
+  {
+    "index": "044007",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "msvcrt.dll::_cexit",
+    "level": 1
+  },
+  {
+    "index": "044010",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "kernel32.dll::ExitProcess",
+    "level": 1
+  },
+  {
+    "index": "044017",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "kernel32.dll::sub_7C81C9FC",
+    "level": 2
+  },
+  {
+    "index": "044020",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "kernel32.dll::sub_7C8024CB",
+    "level": 3
+  },
+  {
+    "index": "044039",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "kernel32.dll::sub_7C8024CB",
+    "level": 3
+  },
+  {
+    "index": "044045",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::RtlAcquirePebLock",
+    "level": 3
+  },
+  {
+    "index": "044048",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C90EDC2",
+    "level": 4
+  },
+  {
+    "index": "044067",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C90EDC2",
+    "level": 4
+  },
+  {
+    "index": "044075",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::RtlEnterCriticalSection",
+    "level": 4
+  },
+  {
+    "index": "044086",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::RtlEnterCriticalSection",
+    "level": 4
+  },
+  {
+    "index": "044088",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C90EE02",
+    "level": 4
+  },
+  {
+    "index": "044097",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C90EE02",
+    "level": 4
+  },
+  {
+    "index": "044098",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::RtlAcquirePebLock",
+    "level": 3
+  },
+  {
+    "index": "044104",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::ZwTerminateProcess",
+    "level": 3
+  },
+  {
+    "index": "044107",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::KiFastSystemCall",
+    "level": 4
+  },
+  {
+    "index": "044110",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::KiFastSystemCall",
+    "level": 4
+  },
+  {
+    "index": "044111",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::ZwTerminateProcess",
+    "level": 3
+  },
+  {
+    "index": "044114",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::LdrShutdownProcess",
+    "level": 3
+  },
+  {
+    "index": "044117",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C90EDC2",
+    "level": 4
+  },
+  {
+    "index": "044136",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C90EDC2",
+    "level": 4
+  },
+  {
+    "index": "044142",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C92401C",
+    "level": 4
+  },
+  {
+    "index": "044145",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C92401C",
+    "level": 4
+  },
+  {
+    "index": "044156",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::RtlEnterCriticalSection",
+    "level": 4
+  },
+  {
+    "index": "044167",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::RtlEnterCriticalSection",
+    "level": 4
+  },
+  {
+    "index": "044173",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C923FE4",
+    "level": 4
+  },
+  {
+    "index": "044189",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C923FE4",
+    "level": 4
+  },
+  {
+    "index": "044194",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C92402F",
+    "level": 4
+  },
+  {
+    "index": "044198",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::RtlDeleteCriticalSection",
+    "level": 5
+  },
+  {
+    "index": "044201",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C90EDC2",
+    "level": 6
+  },
+  {
+    "index": "044220",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C90EDC2",
+    "level": 6
+  },
+  {
+    "index": "044227",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::RtlEnterCriticalSection",
+    "level": 6
+  },
+  {
+    "index": "044238",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::RtlEnterCriticalSection",
+    "level": 6
+  },
+  {
+    "index": "044265",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C91187A",
+    "level": 6
+  },
+  {
+    "index": "044267",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::RtlLeaveCriticalSection",
+    "level": 7
+  },
+  {
+    "index": "044275",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::RtlLeaveCriticalSection",
+    "level": 7
+  },
+  {
+    "index": "044276",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C91187A",
+    "level": 6
+  },
+  {
+    "index": "044280",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C911919",
+    "level": 6
+  },
+  {
+    "index": "044283",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C90EDC2",
+    "level": 7
+  },
+  {
+    "index": "044302",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C90EDC2",
+    "level": 7
+  },
+  {
+    "index": "044304",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::RtlEnterCriticalSection",
+    "level": 7
+  },
+  {
+    "index": "044315",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::RtlEnterCriticalSection",
+    "level": 7
+  },
+  {
+    "index": "044339",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C911989",
+    "level": 7
+  },
+  {
+    "index": "044341",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::RtlLeaveCriticalSection",
+    "level": 8
+  },
+  {
+    "index": "044349",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::RtlLeaveCriticalSection",
+    "level": 8
+  },
+  {
+    "index": "044350",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C911989",
+    "level": 7
+  },
+  {
+    "index": "044351",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C90EE02",
+    "level": 7
+  },
+  {
+    "index": "044360",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C90EE02",
+    "level": 7
+  },
+  {
+    "index": "044361",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C911919",
+    "level": 6
+  },
+  {
+    "index": "044373",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C90EE02",
+    "level": 6
+  },
+  {
+    "index": "044382",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C90EE02",
+    "level": 6
+  },
+  {
+    "index": "044383",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::RtlDeleteCriticalSection",
+    "level": 5
+  },
+  {
+    "index": "044385",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::RtlDeleteCriticalSection",
+    "level": 5
+  },
+  {
+    "index": "044388",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C90EDC2",
+    "level": 6
+  },
+  {
+    "index": "044407",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C90EDC2",
+    "level": 6
+  },
+  {
+    "index": "044414",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::RtlEnterCriticalSection",
+    "level": 6
+  },
+  {
+    "index": "044425",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::RtlEnterCriticalSection",
+    "level": 6
+  },
+  {
+    "index": "044452",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C91187A",
+    "level": 6
+  },
+  {
+    "index": "044454",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::RtlLeaveCriticalSection",
+    "level": 7
+  },
+  {
+    "index": "044462",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::RtlLeaveCriticalSection",
+    "level": 7
+  },
+  {
+    "index": "044463",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C91187A",
+    "level": 6
+  },
+  {
+    "index": "044467",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C911919",
+    "level": 6
+  },
+  {
+    "index": "044470",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C90EDC2",
+    "level": 7
+  },
+  {
+    "index": "044489",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C90EDC2",
+    "level": 7
+  },
+  {
+    "index": "044491",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::RtlEnterCriticalSection",
+    "level": 7
+  },
+  {
+    "index": "044502",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::RtlEnterCriticalSection",
+    "level": 7
+  },
+  {
+    "index": "044526",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C911989",
+    "level": 7
+  },
+  {
+    "index": "044528",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::RtlLeaveCriticalSection",
+    "level": 8
+  },
+  {
+    "index": "044536",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::RtlLeaveCriticalSection",
+    "level": 8
+  },
+  {
+    "index": "044537",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C911989",
+    "level": 7
+  },
+  {
+    "index": "044538",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C90EE02",
+    "level": 7
+  },
+  {
+    "index": "044547",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C90EE02",
+    "level": 7
+  },
+  {
+    "index": "044548",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C911919",
+    "level": 6
+  },
+  {
+    "index": "044560",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C90EE02",
+    "level": 6
+  },
+  {
+    "index": "044569",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C90EE02",
+    "level": 6
+  },
+  {
+    "index": "044570",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::RtlDeleteCriticalSection",
+    "level": 5
+  },
+  {
+    "index": "044579",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C92402F",
+    "level": 4
+  },
+  {
+    "index": "044611",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::RtlActivateActivationContextUnsafeFast",
+    "level": 4
+  },
+  {
+    "index": "044631",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::RtlActivateActivationContextUnsafeFast",
+    "level": 4
+  },
+  {
+    "index": "044640",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C901193",
+    "level": 4
+  },
+  {
+    "index": "044650",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "msvcrt.dll::sub_77C1F2A1",
+    "level": 5
+  },
+  {
+    "index": "044682",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "msvcrt.dll::sub_77C1F2A1",
+    "level": 5
+  },
+  {
+    "index": "044688",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C901193",
+    "level": 4
+  },
+  {
+    "index": "044690",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C923F40",
+    "level": 4
+  },
+  {
+    "index": "044693",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::RtlDeactivateActivationContextUnsafeFast",
+    "level": 5
+  },
+  {
+    "index": "044708",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::RtlDeactivateActivationContextUnsafeFast",
+    "level": 5
+  },
+  {
+    "index": "044710",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C923F40",
+    "level": 4
+  },
+  {
+    "index": "044739",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::RtlActivateActivationContextUnsafeFast",
+    "level": 4
+  },
+  {
+    "index": "044759",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::RtlActivateActivationContextUnsafeFast",
+    "level": 4
+  },
+  {
+    "index": "044768",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C901193",
+    "level": 4
+  },
+  {
+    "index": "044778",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "kernel32.dll::sub_7C80B436",
+    "level": 5
+  },
+  {
+    "index": "044820",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "kernel32.dll::sub_7C809711",
+    "level": 6
+  },
+  {
+    "index": "044825",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "kernel32.dll::sub_7C809711",
+    "level": 6
+  },
+  {
+    "index": "044827",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "kernel32.dll::sub_7C80B436",
+    "level": 5
+  },
+  {
+    "index": "044833",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C901193",
+    "level": 4
+  },
+  {
+    "index": "044835",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C923F40",
+    "level": 4
+  },
+  {
+    "index": "044838",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::RtlDeactivateActivationContextUnsafeFast",
+    "level": 5
+  },
+  {
+    "index": "044853",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::RtlDeactivateActivationContextUnsafeFast",
+    "level": 5
+  },
+  {
+    "index": "044855",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C923F40",
+    "level": 4
+  },
+  {
+    "index": "044884",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::RtlActivateActivationContextUnsafeFast",
+    "level": 4
+  },
+  {
+    "index": "044904",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::RtlActivateActivationContextUnsafeFast",
+    "level": 4
+  },
+  {
+    "index": "044913",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C901193",
+    "level": 4
+  },
+  {
+    "index": "044923",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C913156",
+    "level": 5
+  },
+  {
+    "index": "044932",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C913156",
+    "level": 5
+  },
+  {
+    "index": "044938",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C901193",
+    "level": 4
+  },
+  {
+    "index": "044940",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C923F40",
+    "level": 4
+  },
+  {
+    "index": "044943",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::RtlDeactivateActivationContextUnsafeFast",
+    "level": 5
+  },
+  {
+    "index": "044958",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::RtlDeactivateActivationContextUnsafeFast",
+    "level": 5
+  },
+  {
+    "index": "044960",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C923F40",
+    "level": 4
+  },
+  {
+    "index": "044979",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::RtlActivateActivationContextUnsafeFast",
+    "level": 4
+  },
+  {
+    "index": "044999",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::RtlActivateActivationContextUnsafeFast",
+    "level": 4
+  },
+  {
+    "index": "045006",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C9284D9",
+    "level": 4
+  },
+  {
+    "index": "045009",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C90EDC2",
+    "level": 5
+  },
+  {
+    "index": "045028",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C90EDC2",
+    "level": 5
+  },
+  {
+    "index": "045035",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::RtlImageDirectoryEntryToData",
+    "level": 5
+  },
+  {
+    "index": "045044",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C9107E9",
+    "level": 6
+  },
+  {
+    "index": "045047",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C90EDC2",
+    "level": 7
+  },
+  {
+    "index": "045066",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C90EDC2",
+    "level": 7
+  },
+  {
+    "index": "045084",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C90EE02",
+    "level": 7
+  },
+  {
+    "index": "045093",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C90EE02",
+    "level": 7
+  },
+  {
+    "index": "045094",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C9107E9",
+    "level": 6
+  },
+  {
+    "index": "045105",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C91089F",
+    "level": 6
+  },
+  {
+    "index": "045126",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C91089F",
+    "level": 6
+  },
+  {
+    "index": "045129",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::RtlImageDirectoryEntryToData",
+    "level": 5
+  },
+  {
+    "index": "045152",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C901193",
+    "level": 5
+  },
+  {
+    "index": "045162",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "foo.exe::sub_401450",
+    "level": 6
+  },
+  {
+    "index": "045177",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "foo.exe::sub_401450",
+    "level": 6
+  },
+  {
+    "index": "045183",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C901193",
+    "level": 5
+  },
+  {
+    "index": "045197",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C901193",
+    "level": 5
+  },
+  {
+    "index": "045207",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "foo.exe::sub_401400",
+    "level": 6
+  },
+  {
+    "index": "045217",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "foo.exe::sub_401B50",
+    "level": 7
+  },
+  {
+    "index": "045226",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "foo.exe::sub_4019D0",
+    "level": 8
+  },
+  {
+    "index": "045232",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::RtlEnterCriticalSection",
+    "level": 9
+  },
+  {
+    "index": "045243",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::RtlEnterCriticalSection",
+    "level": 9
+  },
+  {
+    "index": "045250",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::RtlLeaveCriticalSection",
+    "level": 9
+  },
+  {
+    "index": "045258",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::RtlLeaveCriticalSection",
+    "level": 9
+  },
+  {
+    "index": "045263",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "foo.exe::sub_4019D0",
+    "level": 8
+  },
+  {
+    "index": "045271",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::RtlDeleteCriticalSection",
+    "level": 8
+  },
+  {
+    "index": "045274",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C90EDC2",
+    "level": 9
+  },
+  {
+    "index": "045293",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C90EDC2",
+    "level": 9
+  },
+  {
+    "index": "045300",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::RtlEnterCriticalSection",
+    "level": 9
+  },
+  {
+    "index": "045311",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::RtlEnterCriticalSection",
+    "level": 9
+  },
+  {
+    "index": "045338",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C91187A",
+    "level": 9
+  },
+  {
+    "index": "045340",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::RtlLeaveCriticalSection",
+    "level": 10
+  },
+  {
+    "index": "045348",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::RtlLeaveCriticalSection",
+    "level": 10
+  },
+  {
+    "index": "045349",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C91187A",
+    "level": 9
+  },
+  {
+    "index": "045353",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C911919",
+    "level": 9
+  },
+  {
+    "index": "045356",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C90EDC2",
+    "level": 10
+  },
+  {
+    "index": "045375",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C90EDC2",
+    "level": 10
+  },
+  {
+    "index": "045377",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::RtlEnterCriticalSection",
+    "level": 10
+  },
+  {
+    "index": "045388",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::RtlEnterCriticalSection",
+    "level": 10
+  },
+  {
+    "index": "045412",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C911989",
+    "level": 10
+  },
+  {
+    "index": "045414",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::RtlLeaveCriticalSection",
+    "level": 11
+  },
+  {
+    "index": "045422",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::RtlLeaveCriticalSection",
+    "level": 11
+  },
+  {
+    "index": "045423",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C911989",
+    "level": 10
+  },
+  {
+    "index": "045424",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C90EE02",
+    "level": 10
+  },
+  {
+    "index": "045433",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C90EE02",
+    "level": 10
+  },
+  {
+    "index": "045434",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C911919",
+    "level": 9
+  },
+  {
+    "index": "045446",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C90EE02",
+    "level": 9
+  },
+  {
+    "index": "045455",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C90EE02",
+    "level": 9
+  },
+  {
+    "index": "045456",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::RtlDeleteCriticalSection",
+    "level": 8
+  },
+  {
+    "index": "045461",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "foo.exe::sub_401B50",
+    "level": 7
+  },
+  {
+    "index": "045464",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "foo.exe::sub_401400",
+    "level": 6
+  },
+  {
+    "index": "045470",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C901193",
+    "level": 5
+  },
+  {
+    "index": "045476",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C90EE02",
+    "level": 5
+  },
+  {
+    "index": "045485",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C90EE02",
+    "level": 5
+  },
+  {
+    "index": "045486",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C9284D9",
+    "level": 4
+  },
+  {
+    "index": "045488",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C935E57",
+    "level": 4
+  },
+  {
+    "index": "045491",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::RtlDeactivateActivationContextUnsafeFast",
+    "level": 5
+  },
+  {
+    "index": "045506",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::RtlDeactivateActivationContextUnsafeFast",
+    "level": 5
+  },
+  {
+    "index": "045507",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C935E57",
+    "level": 4
+  },
+  {
+    "index": "045510",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C923F8C",
+    "level": 4
+  },
+  {
+    "index": "045512",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::RtlLeaveCriticalSection",
+    "level": 5
+  },
+  {
+    "index": "045520",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::RtlLeaveCriticalSection",
+    "level": 5
+  },
+  {
+    "index": "045521",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C923F8C",
+    "level": 4
+  },
+  {
+    "index": "045522",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::sub_7C90EE02",
+    "level": 4
+  },
+  {
+    "index": "045531",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::sub_7C90EE02",
+    "level": 4
+  },
+  {
+    "index": "045532",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::LdrShutdownProcess",
+    "level": 3
+  },
+  {
+    "index": "045539",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::CsrClientCallServer",
+    "level": 3
+  },
+  {
+    "index": "045568",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::ZwRequestWaitReplyPort",
+    "level": 4
+  },
+  {
+    "index": "045571",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::KiFastSystemCall",
+    "level": 5
+  },
+  {
+    "index": "045574",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::KiFastSystemCall",
+    "level": 5
+  },
+  {
+    "index": "045575",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::ZwRequestWaitReplyPort",
+    "level": 4
+  },
+  {
+    "index": "045585",
+    "pid": "600",
+    "action": "RET",
+    "functionname": "ntdll.dll::CsrClientCallServer",
+    "level": 3
+  },
+  {
+    "index": "045588",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::ZwTerminateProcess",
+    "level": 3
+  },
+  {
+    "index": "045591",
+    "pid": "600",
+    "action": "CALL",
+    "functionname": "ntdll.dll::KiFastSystemCall",
+    "level": 4
+  }
+]

@@ -1,0 +1,6 @@
+000013 600 CALL ntdll.dll::CsrFreeCaptureBuffer (1)
+000013 600 CALL ntdll.dll::CsrFreeCaptureBuffer (2)
+000013 600 RET ntdll.dll::CsrFreeCaptureBuffer (102)
+000013 600 CALL ntdll.dll::CsrFreeCaptureBuffer (2)
+000013 600 RET ntdll.dll::CsrFreeCaptureBuffer (102)
+000013 600 RET ntdll.dll::CsrFreeCaptureBuffer (102)
